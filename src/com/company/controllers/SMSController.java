@@ -127,18 +127,10 @@ public class SMSController {
             // and results of ReportGenerator class
             generateFailedTransactions(promoCodeList);
             generateFailedTransactionsPerType(
-                    dateList,
-                    msisdnList,
-                    msisdnListList,
-                    promoCodeList,
                     fromList,
                     toList);
             generateSuccessfulTransactions(promoCodeList);
             generateSuccessfulTransactionsPerType(
-                    dateList,
-                    msisdnList,
-                    msisdnListList,
-                    promoCodeList,
                     fromList,
                     toList);
             generatePersons(promoCodeList);
@@ -169,34 +161,14 @@ public class SMSController {
         logger.log(Level.INFO, "\n-------------------------------\n");
     }
 
-    private void generateSuccessfulTransactionsPerType(ArrayList<SMS> dateList, ArrayList<SMS> msisdnList, ArrayList<SMS> msisdnListList, ArrayList<SMS> promoCodeList, ArrayList<SMS> fromList, ArrayList<SMS> toList) {
-        //successful transactions per SMS type
-        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS BY DATE----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveSuccessfulTransactions(dateList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS BY MSISDN----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveSuccessfulTransactions(msisdnList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS BY MULTIPLE MSISDN ----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveSuccessfulTransactions(msisdnListList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS BY PROMOCODE ----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveSuccessfulTransactions(promoCodeList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS SENT BY SYSTEM ----\n");
+    private void generateSuccessfulTransactionsPerType(ArrayList<SMS> fromList, ArrayList<SMS> toList) {
+        //successful transactions per SMS type (sent and received)
+        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS SENT BY SYSTEM ----\n");
         smsView.showSMSResult(ReportGenerator.getInstance()
                 .retrieveSuccessfulTransactions(fromList), logger);
         logger.log(Level.INFO, "\n-------------------------------\n");
 
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS RECEIVED BY SYSTEM ----\n");
+        logger.log(Level.INFO, "\n-----SUCCESSFUL TRANSACTIONS RECEIVED BY SYSTEM ----\n");
         smsView.showSMSResult(ReportGenerator.getInstance()
                 .retrieveSuccessfulTransactions(toList), logger);
         logger.log(Level.INFO, "\n-------------------------------\n");
@@ -210,27 +182,8 @@ public class SMSController {
         logger.log(Level.INFO, "\n-------------------------------\n");
     }
 
-    private void generateFailedTransactionsPerType(ArrayList<SMS> dateList, ArrayList<SMS> msisdnList, ArrayList<SMS> msisdnListList, ArrayList<SMS> promoCodeList, ArrayList<SMS> fromList, ArrayList<SMS> toList) {
-        //failed transactions per SMS type
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS BY DATE----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveFailedTransactions(dateList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS BY MSISDN----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveFailedTransactions(msisdnList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS BY MULTIPLE MSISDN ----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveFailedTransactions(msisdnListList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
-
-        logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS BY PROMOCODE ----\n");
-        smsView.showSMSResult(ReportGenerator.getInstance()
-                .retrieveFailedTransactions(promoCodeList), logger);
-        logger.log(Level.INFO, "\n-------------------------------\n");
+    private void generateFailedTransactionsPerType(ArrayList<SMS> fromList, ArrayList<SMS> toList) {
+        //failed transactions per SMS type (sent and received)
 
         logger.log(Level.INFO, "\n-----FAILED TRANSACTIONS SENT BY SYSTEM ----\n");
         smsView.showSMSResult(ReportGenerator.getInstance()
