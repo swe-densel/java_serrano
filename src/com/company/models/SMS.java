@@ -7,6 +7,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 //POJO for SMS
 public class SMS {
@@ -149,13 +150,19 @@ public class SMS {
     //this is the SMS Checker function which accepts a Map and
     //tags which promo does the SMS belong and if the promo is valid
     //based on promo rules
+
+    //map uses String key : String value
     public void checkSMS(Map<String, String> smsMap){
+
+        //determine what promo it belongs, tags promoTag
         this.definedPromoTag =
                 getDefinedPromoTag(
+                        //.get("key") = gets the value of that key
                         smsMap.get("message"),
                         smsMap.get("shortCode")
                 );
 
+        //comparison based on promo rules
         //if the SMS passes all of these conditions, the SMS is tagged as SUCCESS
         if (checkMsisdn(smsMap.get("msisdn"))
                 && checkMessage(smsMap.get("message"), this.definedPromoTag)
@@ -179,7 +186,7 @@ public class SMS {
     private boolean checkMessage(String message, DefinedPromo definedPromoTag){
         return definedPromoTag.getPromoCode().equals(message)
                 || message.equals("REGISTER")
-                || message.contains(", ");
+                || message.contains(", "); //format of "Lastname, Firstname"
     }
 
     //checks if the user sent date and time is within the promo period
@@ -189,11 +196,13 @@ public class SMS {
     }
 
     //determines the promo of the SMS based on the payload/message sent by the user
-    // and the shortcode
+    // and the shortcode (Assumption: each promo has a different shortcode)
     private DefinedPromo getDefinedPromoTag(String message, String shortCode){
         DefinedPromo promo = null;
 
         for (DefinedPromo definedPromo : DefinedPromo.values()){
+            //if statement condition: if the message of SMS is equal to the promo and
+            // shortcode of SMS is equal to that of the promo
             if (definedPromo.getPromoCode().equals(message)
                     || definedPromo.getShortCode().equals(shortCode)){
                 promo = definedPromo;
