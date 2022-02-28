@@ -227,4 +227,46 @@ public class SMS {
                 ", definedPromoTag=" + definedPromoTag.getPromoCode() +
                 '}';
     }
+
+    //  -------- BUILDER CLASS -----------
+
+    // 1. Create a public static class named "SMSBuilder" here
+    // 2. Copy the attributes of the SMS class and paste it inside the SMSBuilder class
+    //    Do not include DefinedPromo and StatusTags
+    // 3. Generate a constructor for the SMSBuilder with msisdn, shortCode, and payload as its parameters
+    //    (Right click > Constructor > Hold CMD and select msisdn, shortCode, and payload > Click OK)
+
+    // 4. Create SMSBuilder methods for each attribute except msisdn, recipient, shortCode, DefinedPromo, and StatusTags
+    // example:
+
+    // public SMSBuilder addTransactionID(String transactionID) {
+    //            this.transactionID = transactionID;
+    //            return this;
+    //        }
+
+    // 5. Create an SMS build() method. You can use the example below and just replace the Form with SMS
+    // example:
+
+    //    public Form build(){
+    //        Form form = new Form(this);
+    //        return form;
+    //    }
+
+    // 6. Create a new constructor in the SMS class with SMSBuilder as its parameters.
+    // Do not include DefinedPromo and StatusTags
+    // Use the example below as a guide.
+
+    //    private Form(FormBuilder builder) {
+    //        this.firstName = builder.firstName;
+    //        this.middleName = builder.middleName;
+    //        this.lastName = builder.lastName;
+    //        this.address = builder.address;
+    //        this.birthdate = builder.birthdate;
+    //        this.spouseFirstName = builder.spouseFirstName;
+    //        this.spouseLastName = builder.spouseLastName;
+    //        this.spouseMiddleName = builder.spouseMiddleName;
+    //    }
+
+    // 7. Go to the Main class for the next step
+
 }

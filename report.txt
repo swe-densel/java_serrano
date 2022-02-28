@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-02-24T14:15:18.565333Z</date>
-  <millis>1645712118565</millis>
-  <nanos>333000</nanos>
+  <date>2022-02-26T06:38:17.554395Z</date>
+  <millis>1645857497554</millis>
+  <nanos>395000</nanos>
   <sequence>996</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -16,9 +16,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.566997Z</date>
-  <millis>1645712118566</millis>
-  <nanos>997000</nanos>
+  <date>2022-02-26T06:38:17.555854Z</date>
+  <millis>1645857497555</millis>
+  <nanos>854000</nanos>
   <sequence>997</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -28,9 +28,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.567380Z</date>
-  <millis>1645712118567</millis>
-  <nanos>380000</nanos>
+  <date>2022-02-26T06:38:17.556203Z</date>
+  <millis>1645857497556</millis>
+  <nanos>203000</nanos>
   <sequence>998</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -40,9 +40,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.567655Z</date>
-  <millis>1645712118567</millis>
-  <nanos>655000</nanos>
+  <date>2022-02-26T06:38:17.556467Z</date>
+  <millis>1645857497556</millis>
+  <nanos>467000</nanos>
   <sequence>999</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -52,9 +52,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.567870Z</date>
-  <millis>1645712118567</millis>
-  <nanos>870000</nanos>
+  <date>2022-02-26T06:38:17.556647Z</date>
+  <millis>1645857497556</millis>
+  <nanos>647000</nanos>
   <sequence>1000</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -64,9 +64,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568050Z</date>
-  <millis>1645712118568</millis>
-  <nanos>50000</nanos>
+  <date>2022-02-26T06:38:17.556811Z</date>
+  <millis>1645857497556</millis>
+  <nanos>811000</nanos>
   <sequence>1001</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -76,9 +76,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568213Z</date>
-  <millis>1645712118568</millis>
-  <nanos>213000</nanos>
+  <date>2022-02-26T06:38:17.556970Z</date>
+  <millis>1645857497556</millis>
+  <nanos>970000</nanos>
   <sequence>1002</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -88,9 +88,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568380Z</date>
-  <millis>1645712118568</millis>
-  <nanos>380000</nanos>
+  <date>2022-02-26T06:38:17.557137Z</date>
+  <millis>1645857497557</millis>
+  <nanos>137000</nanos>
   <sequence>1003</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -100,9 +100,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568559Z</date>
-  <millis>1645712118568</millis>
-  <nanos>559000</nanos>
+  <date>2022-02-26T06:38:17.557328Z</date>
+  <millis>1645857497557</millis>
+  <nanos>328000</nanos>
   <sequence>1004</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -112,9 +112,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568747Z</date>
-  <millis>1645712118568</millis>
-  <nanos>747000</nanos>
+  <date>2022-02-26T06:38:17.557486Z</date>
+  <millis>1645857497557</millis>
+  <nanos>486000</nanos>
   <sequence>1005</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -124,9 +124,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.568975Z</date>
-  <millis>1645712118568</millis>
-  <nanos>975000</nanos>
+  <date>2022-02-26T06:38:17.557638Z</date>
+  <millis>1645857497557</millis>
+  <nanos>638000</nanos>
   <sequence>1006</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -136,9 +136,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.569222Z</date>
-  <millis>1645712118569</millis>
-  <nanos>222000</nanos>
+  <date>2022-02-26T06:38:17.557787Z</date>
+  <millis>1645857497557</millis>
+  <nanos>787000</nanos>
   <sequence>1007</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -148,9 +148,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.569499Z</date>
-  <millis>1645712118569</millis>
-  <nanos>499000</nanos>
+  <date>2022-02-26T06:38:17.557938Z</date>
+  <millis>1645857497557</millis>
+  <nanos>938000</nanos>
   <sequence>1008</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -160,9 +160,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.569705Z</date>
-  <millis>1645712118569</millis>
-  <nanos>705000</nanos>
+  <date>2022-02-26T06:38:17.558087Z</date>
+  <millis>1645857497558</millis>
+  <nanos>87000</nanos>
   <sequence>1009</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -172,9 +172,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.569927Z</date>
-  <millis>1645712118569</millis>
-  <nanos>927000</nanos>
+  <date>2022-02-26T06:38:17.558263Z</date>
+  <millis>1645857497558</millis>
+  <nanos>263000</nanos>
   <sequence>1010</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -184,9 +184,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.570278Z</date>
-  <millis>1645712118570</millis>
-  <nanos>278000</nanos>
+  <date>2022-02-26T06:38:17.558447Z</date>
+  <millis>1645857497558</millis>
+  <nanos>447000</nanos>
   <sequence>1011</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -196,9 +196,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.570789Z</date>
-  <millis>1645712118570</millis>
-  <nanos>789000</nanos>
+  <date>2022-02-26T06:38:17.558594Z</date>
+  <millis>1645857497558</millis>
+  <nanos>594000</nanos>
   <sequence>1012</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -208,9 +208,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571023Z</date>
-  <millis>1645712118571</millis>
-  <nanos>23000</nanos>
+  <date>2022-02-26T06:38:17.558745Z</date>
+  <millis>1645857497558</millis>
+  <nanos>745000</nanos>
   <sequence>1013</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -220,9 +220,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571211Z</date>
-  <millis>1645712118571</millis>
-  <nanos>211000</nanos>
+  <date>2022-02-26T06:38:17.558889Z</date>
+  <millis>1645857497558</millis>
+  <nanos>889000</nanos>
   <sequence>1014</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -232,9 +232,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571338Z</date>
-  <millis>1645712118571</millis>
-  <nanos>338000</nanos>
+  <date>2022-02-26T06:38:17.559030Z</date>
+  <millis>1645857497559</millis>
+  <nanos>30000</nanos>
   <sequence>1015</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -246,9 +246,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571424Z</date>
-  <millis>1645712118571</millis>
-  <nanos>424000</nanos>
+  <date>2022-02-26T06:38:17.559127Z</date>
+  <millis>1645857497559</millis>
+  <nanos>127000</nanos>
   <sequence>1016</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -260,9 +260,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571506Z</date>
-  <millis>1645712118571</millis>
-  <nanos>506000</nanos>
+  <date>2022-02-26T06:38:17.559212Z</date>
+  <millis>1645857497559</millis>
+  <nanos>212000</nanos>
   <sequence>1017</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -272,9 +272,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571583Z</date>
-  <millis>1645712118571</millis>
-  <nanos>583000</nanos>
+  <date>2022-02-26T06:38:17.559332Z</date>
+  <millis>1645857497559</millis>
+  <nanos>332000</nanos>
   <sequence>1018</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -284,9 +284,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571674Z</date>
-  <millis>1645712118571</millis>
-  <nanos>674000</nanos>
+  <date>2022-02-26T06:38:17.559486Z</date>
+  <millis>1645857497559</millis>
+  <nanos>486000</nanos>
   <sequence>1019</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -296,9 +296,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.571937Z</date>
-  <millis>1645712118571</millis>
-  <nanos>937000</nanos>
+  <date>2022-02-26T06:38:17.559704Z</date>
+  <millis>1645857497559</millis>
+  <nanos>704000</nanos>
   <sequence>1020</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -308,9 +308,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.572114Z</date>
-  <millis>1645712118572</millis>
-  <nanos>114000</nanos>
+  <date>2022-02-26T06:38:17.559874Z</date>
+  <millis>1645857497559</millis>
+  <nanos>874000</nanos>
   <sequence>1021</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -320,9 +320,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.572430Z</date>
-  <millis>1645712118572</millis>
-  <nanos>430000</nanos>
+  <date>2022-02-26T06:38:17.560024Z</date>
+  <millis>1645857497560</millis>
+  <nanos>24000</nanos>
   <sequence>1022</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -332,9 +332,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.572654Z</date>
-  <millis>1645712118572</millis>
-  <nanos>654000</nanos>
+  <date>2022-02-26T06:38:17.560184Z</date>
+  <millis>1645857497560</millis>
+  <nanos>184000</nanos>
   <sequence>1023</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -344,9 +344,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.572877Z</date>
-  <millis>1645712118572</millis>
-  <nanos>877000</nanos>
+  <date>2022-02-26T06:38:17.560343Z</date>
+  <millis>1645857497560</millis>
+  <nanos>343000</nanos>
   <sequence>1024</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -356,9 +356,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.573045Z</date>
-  <millis>1645712118573</millis>
-  <nanos>45000</nanos>
+  <date>2022-02-26T06:38:17.560491Z</date>
+  <millis>1645857497560</millis>
+  <nanos>491000</nanos>
   <sequence>1025</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -368,9 +368,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.573318Z</date>
-  <millis>1645712118573</millis>
-  <nanos>318000</nanos>
+  <date>2022-02-26T06:38:17.560690Z</date>
+  <millis>1645857497560</millis>
+  <nanos>690000</nanos>
   <sequence>1026</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -380,9 +380,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.573564Z</date>
-  <millis>1645712118573</millis>
-  <nanos>564000</nanos>
+  <date>2022-02-26T06:38:17.560981Z</date>
+  <millis>1645857497560</millis>
+  <nanos>981000</nanos>
   <sequence>1027</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -392,9 +392,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.573805Z</date>
-  <millis>1645712118573</millis>
-  <nanos>805000</nanos>
+  <date>2022-02-26T06:38:17.561175Z</date>
+  <millis>1645857497561</millis>
+  <nanos>175000</nanos>
   <sequence>1028</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -404,9 +404,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.573991Z</date>
-  <millis>1645712118573</millis>
-  <nanos>991000</nanos>
+  <date>2022-02-26T06:38:17.561561Z</date>
+  <millis>1645857497561</millis>
+  <nanos>561000</nanos>
   <sequence>1029</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -416,9 +416,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574164Z</date>
-  <millis>1645712118574</millis>
-  <nanos>164000</nanos>
+  <date>2022-02-26T06:38:17.561880Z</date>
+  <millis>1645857497561</millis>
+  <nanos>880000</nanos>
   <sequence>1030</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -428,9 +428,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574294Z</date>
-  <millis>1645712118574</millis>
-  <nanos>294000</nanos>
+  <date>2022-02-26T06:38:17.562052Z</date>
+  <millis>1645857497562</millis>
+  <nanos>52000</nanos>
   <sequence>1031</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -440,9 +440,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574398Z</date>
-  <millis>1645712118574</millis>
-  <nanos>398000</nanos>
+  <date>2022-02-26T06:38:17.562168Z</date>
+  <millis>1645857497562</millis>
+  <nanos>168000</nanos>
   <sequence>1032</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -452,9 +452,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574497Z</date>
-  <millis>1645712118574</millis>
-  <nanos>497000</nanos>
+  <date>2022-02-26T06:38:17.562314Z</date>
+  <millis>1645857497562</millis>
+  <nanos>314000</nanos>
   <sequence>1033</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -464,9 +464,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574632Z</date>
-  <millis>1645712118574</millis>
-  <nanos>632000</nanos>
+  <date>2022-02-26T06:38:17.562500Z</date>
+  <millis>1645857497562</millis>
+  <nanos>500000</nanos>
   <sequence>1034</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -476,9 +476,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574749Z</date>
-  <millis>1645712118574</millis>
-  <nanos>749000</nanos>
+  <date>2022-02-26T06:38:17.562759Z</date>
+  <millis>1645857497562</millis>
+  <nanos>759000</nanos>
   <sequence>1035</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -488,9 +488,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574855Z</date>
-  <millis>1645712118574</millis>
-  <nanos>855000</nanos>
+  <date>2022-02-26T06:38:17.562989Z</date>
+  <millis>1645857497562</millis>
+  <nanos>989000</nanos>
   <sequence>1036</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -500,9 +500,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.574968Z</date>
-  <millis>1645712118574</millis>
-  <nanos>968000</nanos>
+  <date>2022-02-26T06:38:17.563162Z</date>
+  <millis>1645857497563</millis>
+  <nanos>162000</nanos>
   <sequence>1037</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -514,9 +514,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575051Z</date>
-  <millis>1645712118575</millis>
-  <nanos>51000</nanos>
+  <date>2022-02-26T06:38:17.563284Z</date>
+  <millis>1645857497563</millis>
+  <nanos>284000</nanos>
   <sequence>1038</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -528,9 +528,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575149Z</date>
-  <millis>1645712118575</millis>
-  <nanos>149000</nanos>
+  <date>2022-02-26T06:38:17.563494Z</date>
+  <millis>1645857497563</millis>
+  <nanos>494000</nanos>
   <sequence>1039</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -540,9 +540,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575248Z</date>
-  <millis>1645712118575</millis>
-  <nanos>248000</nanos>
+  <date>2022-02-26T06:38:17.563607Z</date>
+  <millis>1645857497563</millis>
+  <nanos>607000</nanos>
   <sequence>1040</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -552,9 +552,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575362Z</date>
-  <millis>1645712118575</millis>
-  <nanos>362000</nanos>
+  <date>2022-02-26T06:38:17.563764Z</date>
+  <millis>1645857497563</millis>
+  <nanos>764000</nanos>
   <sequence>1041</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -564,9 +564,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575524Z</date>
-  <millis>1645712118575</millis>
-  <nanos>524000</nanos>
+  <date>2022-02-26T06:38:17.563864Z</date>
+  <millis>1645857497563</millis>
+  <nanos>864000</nanos>
   <sequence>1042</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -576,9 +576,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575623Z</date>
-  <millis>1645712118575</millis>
-  <nanos>623000</nanos>
+  <date>2022-02-26T06:38:17.563936Z</date>
+  <millis>1645857497563</millis>
+  <nanos>936000</nanos>
   <sequence>1043</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -588,9 +588,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575832Z</date>
-  <millis>1645712118575</millis>
-  <nanos>832000</nanos>
+  <date>2022-02-26T06:38:17.564005Z</date>
+  <millis>1645857497564</millis>
+  <nanos>5000</nanos>
   <sequence>1044</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -600,9 +600,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.575968Z</date>
-  <millis>1645712118575</millis>
-  <nanos>968000</nanos>
+  <date>2022-02-26T06:38:17.564073Z</date>
+  <millis>1645857497564</millis>
+  <nanos>73000</nanos>
   <sequence>1045</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -612,9 +612,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576074Z</date>
-  <millis>1645712118576</millis>
-  <nanos>74000</nanos>
+  <date>2022-02-26T06:38:17.564145Z</date>
+  <millis>1645857497564</millis>
+  <nanos>145000</nanos>
   <sequence>1046</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -624,9 +624,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576144Z</date>
-  <millis>1645712118576</millis>
-  <nanos>144000</nanos>
+  <date>2022-02-26T06:38:17.564215Z</date>
+  <millis>1645857497564</millis>
+  <nanos>215000</nanos>
   <sequence>1047</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -636,9 +636,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576352Z</date>
-  <millis>1645712118576</millis>
-  <nanos>352000</nanos>
+  <date>2022-02-26T06:38:17.564412Z</date>
+  <millis>1645857497564</millis>
+  <nanos>412000</nanos>
   <sequence>1048</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -648,9 +648,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576483Z</date>
-  <millis>1645712118576</millis>
-  <nanos>483000</nanos>
+  <date>2022-02-26T06:38:17.564540Z</date>
+  <millis>1645857497564</millis>
+  <nanos>540000</nanos>
   <sequence>1049</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -660,9 +660,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576572Z</date>
-  <millis>1645712118576</millis>
-  <nanos>572000</nanos>
+  <date>2022-02-26T06:38:17.564618Z</date>
+  <millis>1645857497564</millis>
+  <nanos>618000</nanos>
   <sequence>1050</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -672,9 +672,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576639Z</date>
-  <millis>1645712118576</millis>
-  <nanos>639000</nanos>
+  <date>2022-02-26T06:38:17.564687Z</date>
+  <millis>1645857497564</millis>
+  <nanos>687000</nanos>
   <sequence>1051</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -684,9 +684,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576816Z</date>
-  <millis>1645712118576</millis>
-  <nanos>816000</nanos>
+  <date>2022-02-26T06:38:17.564826Z</date>
+  <millis>1645857497564</millis>
+  <nanos>826000</nanos>
   <sequence>1052</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -696,9 +696,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.576971Z</date>
-  <millis>1645712118576</millis>
-  <nanos>971000</nanos>
+  <date>2022-02-26T06:38:17.564927Z</date>
+  <millis>1645857497564</millis>
+  <nanos>927000</nanos>
   <sequence>1053</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -708,9 +708,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577176Z</date>
-  <millis>1645712118577</millis>
-  <nanos>176000</nanos>
+  <date>2022-02-26T06:38:17.565014Z</date>
+  <millis>1645857497565</millis>
+  <nanos>14000</nanos>
   <sequence>1054</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -720,9 +720,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577356Z</date>
-  <millis>1645712118577</millis>
-  <nanos>356000</nanos>
+  <date>2022-02-26T06:38:17.565083Z</date>
+  <millis>1645857497565</millis>
+  <nanos>83000</nanos>
   <sequence>1055</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -732,9 +732,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577508Z</date>
-  <millis>1645712118577</millis>
-  <nanos>508000</nanos>
+  <date>2022-02-26T06:38:17.565176Z</date>
+  <millis>1645857497565</millis>
+  <nanos>176000</nanos>
   <sequence>1056</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -744,9 +744,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577635Z</date>
-  <millis>1645712118577</millis>
-  <nanos>635000</nanos>
+  <date>2022-02-26T06:38:17.565296Z</date>
+  <millis>1645857497565</millis>
+  <nanos>296000</nanos>
   <sequence>1057</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -756,9 +756,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577758Z</date>
-  <millis>1645712118577</millis>
-  <nanos>758000</nanos>
+  <date>2022-02-26T06:38:17.565370Z</date>
+  <millis>1645857497565</millis>
+  <nanos>370000</nanos>
   <sequence>1058</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -768,9 +768,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.577862Z</date>
-  <millis>1645712118577</millis>
-  <nanos>862000</nanos>
+  <date>2022-02-26T06:38:17.565438Z</date>
+  <millis>1645857497565</millis>
+  <nanos>438000</nanos>
   <sequence>1059</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -780,9 +780,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.578522Z</date>
-  <millis>1645712118578</millis>
-  <nanos>522000</nanos>
+  <date>2022-02-26T06:38:17.565551Z</date>
+  <millis>1645857497565</millis>
+  <nanos>551000</nanos>
   <sequence>1060</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -792,9 +792,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.578905Z</date>
-  <millis>1645712118578</millis>
-  <nanos>905000</nanos>
+  <date>2022-02-26T06:38:17.565673Z</date>
+  <millis>1645857497565</millis>
+  <nanos>673000</nanos>
   <sequence>1061</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -804,9 +804,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.579157Z</date>
-  <millis>1645712118579</millis>
-  <nanos>157000</nanos>
+  <date>2022-02-26T06:38:17.565797Z</date>
+  <millis>1645857497565</millis>
+  <nanos>797000</nanos>
   <sequence>1062</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -816,9 +816,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.579420Z</date>
-  <millis>1645712118579</millis>
-  <nanos>420000</nanos>
+  <date>2022-02-26T06:38:17.565918Z</date>
+  <millis>1645857497565</millis>
+  <nanos>918000</nanos>
   <sequence>1063</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -828,9 +828,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.579663Z</date>
-  <millis>1645712118579</millis>
-  <nanos>663000</nanos>
+  <date>2022-02-26T06:38:17.566011Z</date>
+  <millis>1645857497566</millis>
+  <nanos>11000</nanos>
   <sequence>1064</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -840,9 +840,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.579956Z</date>
-  <millis>1645712118579</millis>
-  <nanos>956000</nanos>
+  <date>2022-02-26T06:38:17.566098Z</date>
+  <millis>1645857497566</millis>
+  <nanos>98000</nanos>
   <sequence>1065</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -852,9 +852,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.580174Z</date>
-  <millis>1645712118580</millis>
-  <nanos>174000</nanos>
+  <date>2022-02-26T06:38:17.566184Z</date>
+  <millis>1645857497566</millis>
+  <nanos>184000</nanos>
   <sequence>1066</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -864,9 +864,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.580435Z</date>
-  <millis>1645712118580</millis>
-  <nanos>435000</nanos>
+  <date>2022-02-26T06:38:17.566269Z</date>
+  <millis>1645857497566</millis>
+  <nanos>269000</nanos>
   <sequence>1067</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -876,9 +876,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.580703Z</date>
-  <millis>1645712118580</millis>
-  <nanos>703000</nanos>
+  <date>2022-02-26T06:38:17.566352Z</date>
+  <millis>1645857497566</millis>
+  <nanos>352000</nanos>
   <sequence>1068</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -888,9 +888,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.580937Z</date>
-  <millis>1645712118580</millis>
-  <nanos>937000</nanos>
+  <date>2022-02-26T06:38:17.566440Z</date>
+  <millis>1645857497566</millis>
+  <nanos>440000</nanos>
   <sequence>1069</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -900,9 +900,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581107Z</date>
-  <millis>1645712118581</millis>
-  <nanos>107000</nanos>
+  <date>2022-02-26T06:38:17.566524Z</date>
+  <millis>1645857497566</millis>
+  <nanos>524000</nanos>
   <sequence>1070</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -912,9 +912,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581279Z</date>
-  <millis>1645712118581</millis>
-  <nanos>279000</nanos>
+  <date>2022-02-26T06:38:17.566804Z</date>
+  <millis>1645857497566</millis>
+  <nanos>804000</nanos>
   <sequence>1071</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -924,9 +924,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581396Z</date>
-  <millis>1645712118581</millis>
-  <nanos>396000</nanos>
+  <date>2022-02-26T06:38:17.566928Z</date>
+  <millis>1645857497566</millis>
+  <nanos>928000</nanos>
   <sequence>1072</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -936,9 +936,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581485Z</date>
-  <millis>1645712118581</millis>
-  <nanos>485000</nanos>
+  <date>2022-02-26T06:38:17.567013Z</date>
+  <millis>1645857497567</millis>
+  <nanos>13000</nanos>
   <sequence>1073</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -950,9 +950,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581585Z</date>
-  <millis>1645712118581</millis>
-  <nanos>585000</nanos>
+  <date>2022-02-26T06:38:17.567111Z</date>
+  <millis>1645857497567</millis>
+  <nanos>111000</nanos>
   <sequence>1074</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -964,9 +964,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581698Z</date>
-  <millis>1645712118581</millis>
-  <nanos>698000</nanos>
+  <date>2022-02-26T06:38:17.567277Z</date>
+  <millis>1645857497567</millis>
+  <nanos>277000</nanos>
   <sequence>1075</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -976,9 +976,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581802Z</date>
-  <millis>1645712118581</millis>
-  <nanos>802000</nanos>
+  <date>2022-02-26T06:38:17.567469Z</date>
+  <millis>1645857497567</millis>
+  <nanos>469000</nanos>
   <sequence>1076</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -988,9 +988,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.581902Z</date>
-  <millis>1645712118581</millis>
-  <nanos>902000</nanos>
+  <date>2022-02-26T06:38:17.567561Z</date>
+  <millis>1645857497567</millis>
+  <nanos>561000</nanos>
   <sequence>1077</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1000,9 +1000,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582004Z</date>
-  <millis>1645712118582</millis>
-  <nanos>4000</nanos>
+  <date>2022-02-26T06:38:17.567681Z</date>
+  <millis>1645857497567</millis>
+  <nanos>681000</nanos>
   <sequence>1078</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1012,9 +1012,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582152Z</date>
-  <millis>1645712118582</millis>
-  <nanos>152000</nanos>
+  <date>2022-02-26T06:38:17.567861Z</date>
+  <millis>1645857497567</millis>
+  <nanos>861000</nanos>
   <sequence>1079</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1024,9 +1024,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582254Z</date>
-  <millis>1645712118582</millis>
-  <nanos>254000</nanos>
+  <date>2022-02-26T06:38:17.568024Z</date>
+  <millis>1645857497568</millis>
+  <nanos>24000</nanos>
   <sequence>1080</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1036,9 +1036,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582360Z</date>
-  <millis>1645712118582</millis>
-  <nanos>360000</nanos>
+  <date>2022-02-26T06:38:17.568154Z</date>
+  <millis>1645857497568</millis>
+  <nanos>154000</nanos>
   <sequence>1081</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1048,9 +1048,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582466Z</date>
-  <millis>1645712118582</millis>
-  <nanos>466000</nanos>
+  <date>2022-02-26T06:38:17.568264Z</date>
+  <millis>1645857497568</millis>
+  <nanos>264000</nanos>
   <sequence>1082</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1060,9 +1060,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582574Z</date>
-  <millis>1645712118582</millis>
-  <nanos>574000</nanos>
+  <date>2022-02-26T06:38:17.568384Z</date>
+  <millis>1645857497568</millis>
+  <nanos>384000</nanos>
   <sequence>1083</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1072,9 +1072,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582685Z</date>
-  <millis>1645712118582</millis>
-  <nanos>685000</nanos>
+  <date>2022-02-26T06:38:17.568500Z</date>
+  <millis>1645857497568</millis>
+  <nanos>500000</nanos>
   <sequence>1084</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1084,9 +1084,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582790Z</date>
-  <millis>1645712118582</millis>
-  <nanos>790000</nanos>
+  <date>2022-02-26T06:38:17.568613Z</date>
+  <millis>1645857497568</millis>
+  <nanos>613000</nanos>
   <sequence>1085</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1096,9 +1096,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.582921Z</date>
-  <millis>1645712118582</millis>
-  <nanos>921000</nanos>
+  <date>2022-02-26T06:38:17.568749Z</date>
+  <millis>1645857497568</millis>
+  <nanos>749000</nanos>
   <sequence>1086</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1108,9 +1108,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583031Z</date>
-  <millis>1645712118583</millis>
-  <nanos>31000</nanos>
+  <date>2022-02-26T06:38:17.568863Z</date>
+  <millis>1645857497568</millis>
+  <nanos>863000</nanos>
   <sequence>1087</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1120,9 +1120,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583138Z</date>
-  <millis>1645712118583</millis>
-  <nanos>138000</nanos>
+  <date>2022-02-26T06:38:17.569021Z</date>
+  <millis>1645857497569</millis>
+  <nanos>21000</nanos>
   <sequence>1088</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1132,9 +1132,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583259Z</date>
-  <millis>1645712118583</millis>
-  <nanos>259000</nanos>
+  <date>2022-02-26T06:38:17.569143Z</date>
+  <millis>1645857497569</millis>
+  <nanos>143000</nanos>
   <sequence>1089</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1144,9 +1144,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583365Z</date>
-  <millis>1645712118583</millis>
-  <nanos>365000</nanos>
+  <date>2022-02-26T06:38:17.569248Z</date>
+  <millis>1645857497569</millis>
+  <nanos>248000</nanos>
   <sequence>1090</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1156,9 +1156,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583470Z</date>
-  <millis>1645712118583</millis>
-  <nanos>470000</nanos>
+  <date>2022-02-26T06:38:17.569382Z</date>
+  <millis>1645857497569</millis>
+  <nanos>382000</nanos>
   <sequence>1091</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1168,9 +1168,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583576Z</date>
-  <millis>1645712118583</millis>
-  <nanos>576000</nanos>
+  <date>2022-02-26T06:38:17.569458Z</date>
+  <millis>1645857497569</millis>
+  <nanos>458000</nanos>
   <sequence>1092</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1180,9 +1180,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583748Z</date>
-  <millis>1645712118583</millis>
-  <nanos>748000</nanos>
+  <date>2022-02-26T06:38:17.569560Z</date>
+  <millis>1645857497569</millis>
+  <nanos>560000</nanos>
   <sequence>1093</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1192,9 +1192,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583889Z</date>
-  <millis>1645712118583</millis>
-  <nanos>889000</nanos>
+  <date>2022-02-26T06:38:17.569657Z</date>
+  <millis>1645857497569</millis>
+  <nanos>657000</nanos>
   <sequence>1094</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1204,9 +1204,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.583991Z</date>
-  <millis>1645712118583</millis>
-  <nanos>991000</nanos>
+  <date>2022-02-26T06:38:17.569745Z</date>
+  <millis>1645857497569</millis>
+  <nanos>745000</nanos>
   <sequence>1095</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1216,9 +1216,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584086Z</date>
-  <millis>1645712118584</millis>
-  <nanos>86000</nanos>
+  <date>2022-02-26T06:38:17.569829Z</date>
+  <millis>1645857497569</millis>
+  <nanos>829000</nanos>
   <sequence>1096</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1228,9 +1228,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584179Z</date>
-  <millis>1645712118584</millis>
-  <nanos>179000</nanos>
+  <date>2022-02-26T06:38:17.569913Z</date>
+  <millis>1645857497569</millis>
+  <nanos>913000</nanos>
   <sequence>1097</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1240,9 +1240,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584278Z</date>
-  <millis>1645712118584</millis>
-  <nanos>278000</nanos>
+  <date>2022-02-26T06:38:17.569980Z</date>
+  <millis>1645857497569</millis>
+  <nanos>980000</nanos>
   <sequence>1098</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1252,9 +1252,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584400Z</date>
-  <millis>1645712118584</millis>
-  <nanos>400000</nanos>
+  <date>2022-02-26T06:38:17.570135Z</date>
+  <millis>1645857497570</millis>
+  <nanos>135000</nanos>
   <sequence>1099</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1264,9 +1264,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584606Z</date>
-  <millis>1645712118584</millis>
-  <nanos>606000</nanos>
+  <date>2022-02-26T06:38:17.570319Z</date>
+  <millis>1645857497570</millis>
+  <nanos>319000</nanos>
   <sequence>1100</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1276,9 +1276,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.584849Z</date>
-  <millis>1645712118584</millis>
-  <nanos>849000</nanos>
+  <date>2022-02-26T06:38:17.570408Z</date>
+  <millis>1645857497570</millis>
+  <nanos>408000</nanos>
   <sequence>1101</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1288,9 +1288,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585027Z</date>
-  <millis>1645712118585</millis>
-  <nanos>27000</nanos>
+  <date>2022-02-26T06:38:17.570505Z</date>
+  <millis>1645857497570</millis>
+  <nanos>505000</nanos>
   <sequence>1102</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1300,9 +1300,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585195Z</date>
-  <millis>1645712118585</millis>
-  <nanos>195000</nanos>
+  <date>2022-02-26T06:38:17.570596Z</date>
+  <millis>1645857497570</millis>
+  <nanos>596000</nanos>
   <sequence>1103</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1312,9 +1312,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585336Z</date>
-  <millis>1645712118585</millis>
-  <nanos>336000</nanos>
+  <date>2022-02-26T06:38:17.570688Z</date>
+  <millis>1645857497570</millis>
+  <nanos>688000</nanos>
   <sequence>1104</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1324,9 +1324,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585453Z</date>
-  <millis>1645712118585</millis>
-  <nanos>453000</nanos>
+  <date>2022-02-26T06:38:17.570864Z</date>
+  <millis>1645857497570</millis>
+  <nanos>864000</nanos>
   <sequence>1105</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1336,9 +1336,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585558Z</date>
-  <millis>1645712118585</millis>
-  <nanos>558000</nanos>
+  <date>2022-02-26T06:38:17.570978Z</date>
+  <millis>1645857497570</millis>
+  <nanos>978000</nanos>
   <sequence>1106</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1348,9 +1348,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585659Z</date>
-  <millis>1645712118585</millis>
-  <nanos>659000</nanos>
+  <date>2022-02-26T06:38:17.571053Z</date>
+  <millis>1645857497571</millis>
+  <nanos>53000</nanos>
   <sequence>1107</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1360,9 +1360,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585793Z</date>
-  <millis>1645712118585</millis>
-  <nanos>793000</nanos>
+  <date>2022-02-26T06:38:17.571147Z</date>
+  <millis>1645857497571</millis>
+  <nanos>147000</nanos>
   <sequence>1108</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1372,9 +1372,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO1', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.585906Z</date>
-  <millis>1645712118585</millis>
-  <nanos>906000</nanos>
+  <date>2022-02-26T06:38:17.571251Z</date>
+  <millis>1645857497571</millis>
+  <nanos>251000</nanos>
   <sequence>1109</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1384,9 +1384,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO2', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586009Z</date>
-  <millis>1645712118586</millis>
-  <nanos>9000</nanos>
+  <date>2022-02-26T06:38:17.571408Z</date>
+  <millis>1645857497571</millis>
+  <nanos>408000</nanos>
   <sequence>1110</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1396,9 +1396,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO3', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586122Z</date>
-  <millis>1645712118586</millis>
-  <nanos>122000</nanos>
+  <date>2022-02-26T06:38:17.571591Z</date>
+  <millis>1645857497571</millis>
+  <nanos>591000</nanos>
   <sequence>1111</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1408,9 +1408,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO4', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586265Z</date>
-  <millis>1645712118586</millis>
-  <nanos>265000</nanos>
+  <date>2022-02-26T06:38:17.571725Z</date>
+  <millis>1645857497571</millis>
+  <nanos>725000</nanos>
   <sequence>1112</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1420,9 +1420,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO18', payload='Juan, dela Cruz', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586532Z</date>
-  <millis>1645712118586</millis>
-  <nanos>532000</nanos>
+  <date>2022-02-26T06:38:17.571830Z</date>
+  <millis>1645857497571</millis>
+  <nanos>830000</nanos>
   <sequence>1113</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1432,9 +1432,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO19', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586721Z</date>
-  <millis>1645712118586</millis>
-  <nanos>721000</nanos>
+  <date>2022-02-26T06:38:17.571904Z</date>
+  <millis>1645857497571</millis>
+  <nanos>904000</nanos>
   <sequence>1114</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1444,9 +1444,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO20', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.586913Z</date>
-  <millis>1645712118586</millis>
-  <nanos>913000</nanos>
+  <date>2022-02-26T06:38:17.572010Z</date>
+  <millis>1645857497572</millis>
+  <nanos>10000</nanos>
   <sequence>1115</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1456,9 +1456,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Mang Thomas', sender='Pizza Place', shortCode='1234555', transactionID='PROMO21', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587024Z</date>
-  <millis>1645712118587</millis>
-  <nanos>24000</nanos>
+  <date>2022-02-26T06:38:17.572081Z</date>
+  <millis>1645857497572</millis>
+  <nanos>81000</nanos>
   <sequence>1116</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1468,9 +1468,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO22', payload='Thomas, Mang', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587124Z</date>
-  <millis>1645712118587</millis>
-  <nanos>124000</nanos>
+  <date>2022-02-26T06:38:17.572155Z</date>
+  <millis>1645857497572</millis>
+  <nanos>155000</nanos>
   <sequence>1117</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1480,9 +1480,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO26', payload='dela Cruz, Juan', timestamp=2021-04-03T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587232Z</date>
-  <millis>1645712118587</millis>
-  <nanos>232000</nanos>
+  <date>2022-02-26T06:38:17.572227Z</date>
+  <millis>1645857497572</millis>
+  <nanos>227000</nanos>
   <sequence>1118</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1492,9 +1492,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO27', payload='PROMO', timestamp=2021-03-02T13:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587326Z</date>
-  <millis>1645712118587</millis>
-  <nanos>326000</nanos>
+  <date>2022-02-26T06:38:17.572320Z</date>
+  <millis>1645857497572</millis>
+  <nanos>320000</nanos>
   <sequence>1119</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1504,9 +1504,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO28', payload='REGISTER', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587420Z</date>
-  <millis>1645712118587</millis>
-  <nanos>420000</nanos>
+  <date>2022-02-26T06:38:17.572390Z</date>
+  <millis>1645857497572</millis>
+  <nanos>390000</nanos>
   <sequence>1120</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1516,9 +1516,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Siao Tan', sender='Pizza Place', shortCode='1234555', transactionID='PROMO29', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587528Z</date>
-  <millis>1645712118587</millis>
-  <nanos>528000</nanos>
+  <date>2022-02-26T06:38:17.572459Z</date>
+  <millis>1645857497572</millis>
+  <nanos>459000</nanos>
   <sequence>1121</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1528,9 +1528,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO30', payload='Tan, Siao', timestamp=2021-03-02T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587690Z</date>
-  <millis>1645712118587</millis>
-  <nanos>690000</nanos>
+  <date>2022-02-26T06:38:17.572545Z</date>
+  <millis>1645857497572</millis>
+  <nanos>545000</nanos>
   <sequence>1122</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1540,9 +1540,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO35', payload='PROMO', timestamp=2021-05-20T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.587868Z</date>
-  <millis>1645712118587</millis>
-  <nanos>868000</nanos>
+  <date>2022-02-26T06:38:17.572616Z</date>
+  <millis>1645857497572</millis>
+  <nanos>616000</nanos>
   <sequence>1123</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1552,9 +1552,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO36', payload='REGISTER', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.588036Z</date>
-  <millis>1645712118588</millis>
-  <nanos>36000</nanos>
+  <date>2022-02-26T06:38:17.572785Z</date>
+  <millis>1645857497572</millis>
+  <nanos>785000</nanos>
   <sequence>1124</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1564,9 +1564,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Miguel Aveno', sender='Pizza Place', shortCode='1234555', transactionID='PROMO37', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.588154Z</date>
-  <millis>1645712118588</millis>
-  <nanos>154000</nanos>
+  <date>2022-02-26T06:38:17.572913Z</date>
+  <millis>1645857497572</millis>
+  <nanos>913000</nanos>
   <sequence>1125</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1576,9 +1576,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO38', payload='Aveno, Miguel', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.588264Z</date>
-  <millis>1645712118588</millis>
-  <nanos>264000</nanos>
+  <date>2022-02-26T06:38:17.573056Z</date>
+  <millis>1645857497573</millis>
+  <nanos>56000</nanos>
   <sequence>1126</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1588,9 +1588,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO43', payload='REGISTER', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.588380Z</date>
-  <millis>1645712118588</millis>
-  <nanos>380000</nanos>
+  <date>2022-02-26T06:38:17.573217Z</date>
+  <millis>1645857497573</millis>
+  <nanos>217000</nanos>
   <sequence>1127</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1600,9 +1600,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Boris Ivanovich', sender='Pizza Place', shortCode='1234555', transactionID='PROMO44', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.589276Z</date>
-  <millis>1645712118589</millis>
-  <nanos>276000</nanos>
+  <date>2022-02-26T06:38:17.573367Z</date>
+  <millis>1645857497573</millis>
+  <nanos>367000</nanos>
   <sequence>1128</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1612,9 +1612,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO45', payload='Ivanovich, Boris', timestamp=2021-04-26T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.589546Z</date>
-  <millis>1645712118589</millis>
-  <nanos>546000</nanos>
+  <date>2022-02-26T06:38:17.573511Z</date>
+  <millis>1645857497573</millis>
+  <nanos>511000</nanos>
   <sequence>1129</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1624,9 +1624,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.589694Z</date>
-  <millis>1645712118589</millis>
-  <nanos>694000</nanos>
+  <date>2022-02-26T06:38:17.573763Z</date>
+  <millis>1645857497573</millis>
+  <nanos>763000</nanos>
   <sequence>1130</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1638,9 +1638,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.589813Z</date>
-  <millis>1645712118589</millis>
-  <nanos>813000</nanos>
+  <date>2022-02-26T06:38:17.573939Z</date>
+  <millis>1645857497573</millis>
+  <nanos>939000</nanos>
   <sequence>1131</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1652,9 +1652,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.589926Z</date>
-  <millis>1645712118589</millis>
-  <nanos>926000</nanos>
+  <date>2022-02-26T06:38:17.574331Z</date>
+  <millis>1645857497574</millis>
+  <nanos>331000</nanos>
   <sequence>1132</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1664,9 +1664,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590026Z</date>
-  <millis>1645712118590</millis>
-  <nanos>26000</nanos>
+  <date>2022-02-26T06:38:17.574587Z</date>
+  <millis>1645857497574</millis>
+  <nanos>587000</nanos>
   <sequence>1133</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1676,9 +1676,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590124Z</date>
-  <millis>1645712118590</millis>
-  <nanos>124000</nanos>
+  <date>2022-02-26T06:38:17.574701Z</date>
+  <millis>1645857497574</millis>
+  <nanos>701000</nanos>
   <sequence>1134</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1688,9 +1688,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590217Z</date>
-  <millis>1645712118590</millis>
-  <nanos>217000</nanos>
+  <date>2022-02-26T06:38:17.574830Z</date>
+  <millis>1645857497574</millis>
+  <nanos>830000</nanos>
   <sequence>1135</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1700,9 +1700,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590321Z</date>
-  <millis>1645712118590</millis>
-  <nanos>321000</nanos>
+  <date>2022-02-26T06:38:17.575045Z</date>
+  <millis>1645857497575</millis>
+  <nanos>45000</nanos>
   <sequence>1136</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1712,9 +1712,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590424Z</date>
-  <millis>1645712118590</millis>
-  <nanos>424000</nanos>
+  <date>2022-02-26T06:38:17.575172Z</date>
+  <millis>1645857497575</millis>
+  <nanos>172000</nanos>
   <sequence>1137</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1724,9 +1724,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590541Z</date>
-  <millis>1645712118590</millis>
-  <nanos>541000</nanos>
+  <date>2022-02-26T06:38:17.575382Z</date>
+  <millis>1645857497575</millis>
+  <nanos>382000</nanos>
   <sequence>1138</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1736,9 +1736,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590660Z</date>
-  <millis>1645712118590</millis>
-  <nanos>660000</nanos>
+  <date>2022-02-26T06:38:17.575495Z</date>
+  <millis>1645857497575</millis>
+  <nanos>495000</nanos>
   <sequence>1139</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1748,9 +1748,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590781Z</date>
-  <millis>1645712118590</millis>
-  <nanos>781000</nanos>
+  <date>2022-02-26T06:38:17.575600Z</date>
+  <millis>1645857497575</millis>
+  <nanos>600000</nanos>
   <sequence>1140</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1760,9 +1760,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.590904Z</date>
-  <millis>1645712118590</millis>
-  <nanos>904000</nanos>
+  <date>2022-02-26T06:38:17.575699Z</date>
+  <millis>1645857497575</millis>
+  <nanos>699000</nanos>
   <sequence>1141</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1772,9 +1772,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591033Z</date>
-  <millis>1645712118591</millis>
-  <nanos>33000</nanos>
+  <date>2022-02-26T06:38:17.575875Z</date>
+  <millis>1645857497575</millis>
+  <nanos>875000</nanos>
   <sequence>1142</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1784,9 +1784,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591168Z</date>
-  <millis>1645712118591</millis>
-  <nanos>168000</nanos>
+  <date>2022-02-26T06:38:17.575999Z</date>
+  <millis>1645857497575</millis>
+  <nanos>999000</nanos>
   <sequence>1143</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1796,9 +1796,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591304Z</date>
-  <millis>1645712118591</millis>
-  <nanos>304000</nanos>
+  <date>2022-02-26T06:38:17.576090Z</date>
+  <millis>1645857497576</millis>
+  <nanos>90000</nanos>
   <sequence>1144</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1808,9 +1808,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591427Z</date>
-  <millis>1645712118591</millis>
-  <nanos>427000</nanos>
+  <date>2022-02-26T06:38:17.576176Z</date>
+  <millis>1645857497576</millis>
+  <nanos>176000</nanos>
   <sequence>1145</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1820,9 +1820,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591537Z</date>
-  <millis>1645712118591</millis>
-  <nanos>537000</nanos>
+  <date>2022-02-26T06:38:17.576271Z</date>
+  <millis>1645857497576</millis>
+  <nanos>271000</nanos>
   <sequence>1146</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1832,9 +1832,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591637Z</date>
-  <millis>1645712118591</millis>
-  <nanos>637000</nanos>
+  <date>2022-02-26T06:38:17.576362Z</date>
+  <millis>1645857497576</millis>
+  <nanos>362000</nanos>
   <sequence>1147</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1844,9 +1844,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591782Z</date>
-  <millis>1645712118591</millis>
-  <nanos>782000</nanos>
+  <date>2022-02-26T06:38:17.576447Z</date>
+  <millis>1645857497576</millis>
+  <nanos>447000</nanos>
   <sequence>1148</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1856,9 +1856,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.591959Z</date>
-  <millis>1645712118591</millis>
-  <nanos>959000</nanos>
+  <date>2022-02-26T06:38:17.576531Z</date>
+  <millis>1645857497576</millis>
+  <nanos>531000</nanos>
   <sequence>1149</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1868,9 +1868,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592095Z</date>
-  <millis>1645712118592</millis>
-  <nanos>95000</nanos>
+  <date>2022-02-26T06:38:17.576616Z</date>
+  <millis>1645857497576</millis>
+  <nanos>616000</nanos>
   <sequence>1150</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1880,9 +1880,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592211Z</date>
-  <millis>1645712118592</millis>
-  <nanos>211000</nanos>
+  <date>2022-02-26T06:38:17.576727Z</date>
+  <millis>1645857497576</millis>
+  <nanos>727000</nanos>
   <sequence>1151</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1892,9 +1892,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592312Z</date>
-  <millis>1645712118592</millis>
-  <nanos>312000</nanos>
+  <date>2022-02-26T06:38:17.576821Z</date>
+  <millis>1645857497576</millis>
+  <nanos>821000</nanos>
   <sequence>1152</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1904,9 +1904,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592404Z</date>
-  <millis>1645712118592</millis>
-  <nanos>404000</nanos>
+  <date>2022-02-26T06:38:17.576924Z</date>
+  <millis>1645857497576</millis>
+  <nanos>924000</nanos>
   <sequence>1153</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1916,9 +1916,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592496Z</date>
-  <millis>1645712118592</millis>
-  <nanos>496000</nanos>
+  <date>2022-02-26T06:38:17.577139Z</date>
+  <millis>1645857497577</millis>
+  <nanos>139000</nanos>
   <sequence>1154</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1928,9 +1928,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592590Z</date>
-  <millis>1645712118592</millis>
-  <nanos>590000</nanos>
+  <date>2022-02-26T06:38:17.577264Z</date>
+  <millis>1645857497577</millis>
+  <nanos>264000</nanos>
   <sequence>1155</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1940,9 +1940,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592683Z</date>
-  <millis>1645712118592</millis>
-  <nanos>683000</nanos>
+  <date>2022-02-26T06:38:17.577347Z</date>
+  <millis>1645857497577</millis>
+  <nanos>347000</nanos>
   <sequence>1156</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1952,9 +1952,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.592828Z</date>
-  <millis>1645712118592</millis>
-  <nanos>828000</nanos>
+  <date>2022-02-26T06:38:17.577413Z</date>
+  <millis>1645857497577</millis>
+  <nanos>413000</nanos>
   <sequence>1157</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1964,9 +1964,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.593175Z</date>
-  <millis>1645712118593</millis>
-  <nanos>175000</nanos>
+  <date>2022-02-26T06:38:17.577482Z</date>
+  <millis>1645857497577</millis>
+  <nanos>482000</nanos>
   <sequence>1158</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1976,9 +1976,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.593724Z</date>
-  <millis>1645712118593</millis>
-  <nanos>724000</nanos>
+  <date>2022-02-26T06:38:17.577550Z</date>
+  <millis>1645857497577</millis>
+  <nanos>550000</nanos>
   <sequence>1159</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -1988,9 +1988,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.594182Z</date>
-  <millis>1645712118594</millis>
-  <nanos>182000</nanos>
+  <date>2022-02-26T06:38:17.577618Z</date>
+  <millis>1645857497577</millis>
+  <nanos>618000</nanos>
   <sequence>1160</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2000,9 +2000,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.594646Z</date>
-  <millis>1645712118594</millis>
-  <nanos>646000</nanos>
+  <date>2022-02-26T06:38:17.577685Z</date>
+  <millis>1645857497577</millis>
+  <nanos>685000</nanos>
   <sequence>1161</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2012,9 +2012,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.595800Z</date>
-  <millis>1645712118595</millis>
-  <nanos>800000</nanos>
+  <date>2022-02-26T06:38:17.577835Z</date>
+  <millis>1645857497577</millis>
+  <nanos>835000</nanos>
   <sequence>1162</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2024,9 +2024,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.596106Z</date>
-  <millis>1645712118596</millis>
-  <nanos>106000</nanos>
+  <date>2022-02-26T06:38:17.578049Z</date>
+  <millis>1645857497578</millis>
+  <nanos>49000</nanos>
   <sequence>1163</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2036,9 +2036,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.596410Z</date>
-  <millis>1645712118596</millis>
-  <nanos>410000</nanos>
+  <date>2022-02-26T06:38:17.578199Z</date>
+  <millis>1645857497578</millis>
+  <nanos>199000</nanos>
   <sequence>1164</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2048,9 +2048,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.596545Z</date>
-  <millis>1645712118596</millis>
-  <nanos>545000</nanos>
+  <date>2022-02-26T06:38:17.578312Z</date>
+  <millis>1645857497578</millis>
+  <nanos>312000</nanos>
   <sequence>1165</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2060,9 +2060,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO1', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.596627Z</date>
-  <millis>1645712118596</millis>
-  <nanos>627000</nanos>
+  <date>2022-02-26T06:38:17.578421Z</date>
+  <millis>1645857497578</millis>
+  <nanos>421000</nanos>
   <sequence>1166</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2072,9 +2072,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO2', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.596797Z</date>
-  <millis>1645712118596</millis>
-  <nanos>797000</nanos>
+  <date>2022-02-26T06:38:17.578522Z</date>
+  <millis>1645857497578</millis>
+  <nanos>522000</nanos>
   <sequence>1167</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2084,9 +2084,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO3', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.597192Z</date>
-  <millis>1645712118597</millis>
-  <nanos>192000</nanos>
+  <date>2022-02-26T06:38:17.578657Z</date>
+  <millis>1645857497578</millis>
+  <nanos>657000</nanos>
   <sequence>1168</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2096,9 +2096,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO4', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.597596Z</date>
-  <millis>1645712118597</millis>
-  <nanos>596000</nanos>
+  <date>2022-02-26T06:38:17.578773Z</date>
+  <millis>1645857497578</millis>
+  <nanos>773000</nanos>
   <sequence>1169</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2108,9 +2108,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO18', payload='Juan, dela Cruz', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.598447Z</date>
-  <millis>1645712118598</millis>
-  <nanos>447000</nanos>
+  <date>2022-02-26T06:38:17.578887Z</date>
+  <millis>1645857497578</millis>
+  <nanos>887000</nanos>
   <sequence>1170</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2120,9 +2120,8 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO19', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.598953Z</date>
-  <millis>1645712118598</millis>
-  <nanos>953000</nanos>
+  <date>2022-02-26T06:38:17.579Z</date>
+  <millis>1645857497579</millis>
   <sequence>1171</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2132,9 +2131,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO20', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.599459Z</date>
-  <millis>1645712118599</millis>
-  <nanos>459000</nanos>
+  <date>2022-02-26T06:38:17.579116Z</date>
+  <millis>1645857497579</millis>
+  <nanos>116000</nanos>
   <sequence>1172</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2144,9 +2143,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Mang Thomas', sender='Pizza Place', shortCode='1234555', transactionID='PROMO21', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.599799Z</date>
-  <millis>1645712118599</millis>
-  <nanos>799000</nanos>
+  <date>2022-02-26T06:38:17.579235Z</date>
+  <millis>1645857497579</millis>
+  <nanos>235000</nanos>
   <sequence>1173</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2156,9 +2155,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO22', payload='Thomas, Mang', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600002Z</date>
-  <millis>1645712118600</millis>
-  <nanos>2000</nanos>
+  <date>2022-02-26T06:38:17.579342Z</date>
+  <millis>1645857497579</millis>
+  <nanos>342000</nanos>
   <sequence>1174</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2168,9 +2167,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO26', payload='dela Cruz, Juan', timestamp=2021-04-03T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600131Z</date>
-  <millis>1645712118600</millis>
-  <nanos>131000</nanos>
+  <date>2022-02-26T06:38:17.579453Z</date>
+  <millis>1645857497579</millis>
+  <nanos>453000</nanos>
   <sequence>1175</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2180,9 +2179,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO27', payload='PROMO', timestamp=2021-03-02T13:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600254Z</date>
-  <millis>1645712118600</millis>
-  <nanos>254000</nanos>
+  <date>2022-02-26T06:38:17.579590Z</date>
+  <millis>1645857497579</millis>
+  <nanos>590000</nanos>
   <sequence>1176</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2192,9 +2191,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO28', payload='REGISTER', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600344Z</date>
-  <millis>1645712118600</millis>
-  <nanos>344000</nanos>
+  <date>2022-02-26T06:38:17.579688Z</date>
+  <millis>1645857497579</millis>
+  <nanos>688000</nanos>
   <sequence>1177</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2204,9 +2203,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Siao Tan', sender='Pizza Place', shortCode='1234555', transactionID='PROMO29', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600433Z</date>
-  <millis>1645712118600</millis>
-  <nanos>433000</nanos>
+  <date>2022-02-26T06:38:17.579785Z</date>
+  <millis>1645857497579</millis>
+  <nanos>785000</nanos>
   <sequence>1178</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2216,9 +2215,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO30', payload='Tan, Siao', timestamp=2021-03-02T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600532Z</date>
-  <millis>1645712118600</millis>
-  <nanos>532000</nanos>
+  <date>2022-02-26T06:38:17.579974Z</date>
+  <millis>1645857497579</millis>
+  <nanos>974000</nanos>
   <sequence>1179</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2228,9 +2227,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO35', payload='PROMO', timestamp=2021-05-20T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600626Z</date>
-  <millis>1645712118600</millis>
-  <nanos>626000</nanos>
+  <date>2022-02-26T06:38:17.580260Z</date>
+  <millis>1645857497580</millis>
+  <nanos>260000</nanos>
   <sequence>1180</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2240,9 +2239,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO36', payload='REGISTER', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600745Z</date>
-  <millis>1645712118600</millis>
-  <nanos>745000</nanos>
+  <date>2022-02-26T06:38:17.580406Z</date>
+  <millis>1645857497580</millis>
+  <nanos>406000</nanos>
   <sequence>1181</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2252,9 +2251,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Miguel Aveno', sender='Pizza Place', shortCode='1234555', transactionID='PROMO37', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.600872Z</date>
-  <millis>1645712118600</millis>
-  <nanos>872000</nanos>
+  <date>2022-02-26T06:38:17.580544Z</date>
+  <millis>1645857497580</millis>
+  <nanos>544000</nanos>
   <sequence>1182</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2264,9 +2263,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO38', payload='Aveno, Miguel', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.601031Z</date>
-  <millis>1645712118601</millis>
-  <nanos>31000</nanos>
+  <date>2022-02-26T06:38:17.580637Z</date>
+  <millis>1645857497580</millis>
+  <nanos>637000</nanos>
   <sequence>1183</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2276,9 +2275,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO43', payload='REGISTER', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.601308Z</date>
-  <millis>1645712118601</millis>
-  <nanos>308000</nanos>
+  <date>2022-02-26T06:38:17.580710Z</date>
+  <millis>1645857497580</millis>
+  <nanos>710000</nanos>
   <sequence>1184</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2288,9 +2287,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Boris Ivanovich', sender='Pizza Place', shortCode='1234555', transactionID='PROMO44', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.601529Z</date>
-  <millis>1645712118601</millis>
-  <nanos>529000</nanos>
+  <date>2022-02-26T06:38:17.580800Z</date>
+  <millis>1645857497580</millis>
+  <nanos>800000</nanos>
   <sequence>1185</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2300,9 +2299,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO45', payload='Ivanovich, Boris', timestamp=2021-04-26T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.601666Z</date>
-  <millis>1645712118601</millis>
-  <nanos>666000</nanos>
+  <date>2022-02-26T06:38:17.580891Z</date>
+  <millis>1645857497580</millis>
+  <nanos>891000</nanos>
   <sequence>1186</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2312,9 +2311,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO3', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.601861Z</date>
-  <millis>1645712118601</millis>
-  <nanos>861000</nanos>
+  <date>2022-02-26T06:38:17.580966Z</date>
+  <millis>1645857497580</millis>
+  <nanos>966000</nanos>
   <sequence>1187</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2324,9 +2323,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Mang Thomas', sender='Pizza Place', shortCode='1234555', transactionID='PROMO21', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.602005Z</date>
-  <millis>1645712118602</millis>
-  <nanos>5000</nanos>
+  <date>2022-02-26T06:38:17.581058Z</date>
+  <millis>1645857497581</millis>
+  <nanos>58000</nanos>
   <sequence>1188</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2336,9 +2335,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Siao Tan', sender='Pizza Place', shortCode='1234555', transactionID='PROMO29', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.602943Z</date>
-  <millis>1645712118602</millis>
-  <nanos>943000</nanos>
+  <date>2022-02-26T06:38:17.581171Z</date>
+  <millis>1645857497581</millis>
+  <nanos>171000</nanos>
   <sequence>1189</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2348,9 +2347,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Miguel Aveno', sender='Pizza Place', shortCode='1234555', transactionID='PROMO37', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603195Z</date>
-  <millis>1645712118603</millis>
-  <nanos>195000</nanos>
+  <date>2022-02-26T06:38:17.581346Z</date>
+  <millis>1645857497581</millis>
+  <nanos>346000</nanos>
   <sequence>1190</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2360,9 +2359,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Boris Ivanovich', sender='Pizza Place', shortCode='1234555', transactionID='PROMO44', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603342Z</date>
-  <millis>1645712118603</millis>
-  <nanos>342000</nanos>
+  <date>2022-02-26T06:38:17.581505Z</date>
+  <millis>1645857497581</millis>
+  <nanos>505000</nanos>
   <sequence>1191</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2372,9 +2371,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603458Z</date>
-  <millis>1645712118603</millis>
-  <nanos>458000</nanos>
+  <date>2022-02-26T06:38:17.581600Z</date>
+  <millis>1645857497581</millis>
+  <nanos>600000</nanos>
   <sequence>1192</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2386,9 +2385,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603566Z</date>
-  <millis>1645712118603</millis>
-  <nanos>566000</nanos>
+  <date>2022-02-26T06:38:17.581790Z</date>
+  <millis>1645857497581</millis>
+  <nanos>790000</nanos>
   <sequence>1193</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2400,9 +2399,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603684Z</date>
-  <millis>1645712118603</millis>
-  <nanos>684000</nanos>
+  <date>2022-02-26T06:38:17.582061Z</date>
+  <millis>1645857497582</millis>
+  <nanos>61000</nanos>
   <sequence>1194</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2412,9 +2411,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603820Z</date>
-  <millis>1645712118603</millis>
-  <nanos>820000</nanos>
+  <date>2022-02-26T06:38:17.582250Z</date>
+  <millis>1645857497582</millis>
+  <nanos>250000</nanos>
   <sequence>1195</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2424,9 +2423,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603913Z</date>
-  <millis>1645712118603</millis>
-  <nanos>913000</nanos>
+  <date>2022-02-26T06:38:17.582407Z</date>
+  <millis>1645857497582</millis>
+  <nanos>407000</nanos>
   <sequence>1196</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2436,9 +2435,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.603983Z</date>
-  <millis>1645712118603</millis>
-  <nanos>983000</nanos>
+  <date>2022-02-26T06:38:17.582516Z</date>
+  <millis>1645857497582</millis>
+  <nanos>516000</nanos>
   <sequence>1197</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2448,9 +2447,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604049Z</date>
-  <millis>1645712118604</millis>
-  <nanos>49000</nanos>
+  <date>2022-02-26T06:38:17.582588Z</date>
+  <millis>1645857497582</millis>
+  <nanos>588000</nanos>
   <sequence>1198</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2460,9 +2459,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604114Z</date>
-  <millis>1645712118604</millis>
-  <nanos>114000</nanos>
+  <date>2022-02-26T06:38:17.582652Z</date>
+  <millis>1645857497582</millis>
+  <nanos>652000</nanos>
   <sequence>1199</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2472,9 +2471,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604285Z</date>
-  <millis>1645712118604</millis>
-  <nanos>285000</nanos>
+  <date>2022-02-26T06:38:17.582807Z</date>
+  <millis>1645857497582</millis>
+  <nanos>807000</nanos>
   <sequence>1200</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2484,9 +2483,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604432Z</date>
-  <millis>1645712118604</millis>
-  <nanos>432000</nanos>
+  <date>2022-02-26T06:38:17.582936Z</date>
+  <millis>1645857497582</millis>
+  <nanos>936000</nanos>
   <sequence>1201</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2496,9 +2495,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604566Z</date>
-  <millis>1645712118604</millis>
-  <nanos>566000</nanos>
+  <date>2022-02-26T06:38:17.583047Z</date>
+  <millis>1645857497583</millis>
+  <nanos>47000</nanos>
   <sequence>1202</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2508,9 +2507,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604682Z</date>
-  <millis>1645712118604</millis>
-  <nanos>682000</nanos>
+  <date>2022-02-26T06:38:17.583206Z</date>
+  <millis>1645857497583</millis>
+  <nanos>206000</nanos>
   <sequence>1203</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2520,9 +2519,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604853Z</date>
-  <millis>1645712118604</millis>
-  <nanos>853000</nanos>
+  <date>2022-02-26T06:38:17.583347Z</date>
+  <millis>1645857497583</millis>
+  <nanos>347000</nanos>
   <sequence>1204</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2532,9 +2531,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.604994Z</date>
-  <millis>1645712118604</millis>
-  <nanos>994000</nanos>
+  <date>2022-02-26T06:38:17.583423Z</date>
+  <millis>1645857497583</millis>
+  <nanos>423000</nanos>
   <sequence>1205</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2544,9 +2543,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605170Z</date>
-  <millis>1645712118605</millis>
-  <nanos>170000</nanos>
+  <date>2022-02-26T06:38:17.583492Z</date>
+  <millis>1645857497583</millis>
+  <nanos>492000</nanos>
   <sequence>1206</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2556,9 +2555,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605307Z</date>
-  <millis>1645712118605</millis>
-  <nanos>307000</nanos>
+  <date>2022-02-26T06:38:17.583560Z</date>
+  <millis>1645857497583</millis>
+  <nanos>560000</nanos>
   <sequence>1207</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2568,9 +2567,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605414Z</date>
-  <millis>1645712118605</millis>
-  <nanos>414000</nanos>
+  <date>2022-02-26T06:38:17.583625Z</date>
+  <millis>1645857497583</millis>
+  <nanos>625000</nanos>
   <sequence>1208</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2580,9 +2579,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605520Z</date>
-  <millis>1645712118605</millis>
-  <nanos>520000</nanos>
+  <date>2022-02-26T06:38:17.583690Z</date>
+  <millis>1645857497583</millis>
+  <nanos>690000</nanos>
   <sequence>1209</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2592,9 +2591,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605628Z</date>
-  <millis>1645712118605</millis>
-  <nanos>628000</nanos>
+  <date>2022-02-26T06:38:17.583753Z</date>
+  <millis>1645857497583</millis>
+  <nanos>753000</nanos>
   <sequence>1210</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2604,9 +2603,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605731Z</date>
-  <millis>1645712118605</millis>
-  <nanos>731000</nanos>
+  <date>2022-02-26T06:38:17.583815Z</date>
+  <millis>1645857497583</millis>
+  <nanos>815000</nanos>
   <sequence>1211</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2616,9 +2615,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO25', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605836Z</date>
-  <millis>1645712118605</millis>
-  <nanos>836000</nanos>
+  <date>2022-02-26T06:38:17.583880Z</date>
+  <millis>1645857497583</millis>
+  <nanos>880000</nanos>
   <sequence>1212</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2628,9 +2627,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO33', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.605932Z</date>
-  <millis>1645712118605</millis>
-  <nanos>932000</nanos>
+  <date>2022-02-26T06:38:17.583981Z</date>
+  <millis>1645857497583</millis>
+  <nanos>981000</nanos>
   <sequence>1213</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2640,9 +2639,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO13', payload='PRAMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606009Z</date>
-  <millis>1645712118606</millis>
-  <nanos>9000</nanos>
+  <date>2022-02-26T06:38:17.584133Z</date>
+  <millis>1645857497584</millis>
+  <nanos>133000</nanos>
   <sequence>1214</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2652,9 +2651,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO14', payload='promo', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606077Z</date>
-  <millis>1645712118606</millis>
-  <nanos>77000</nanos>
+  <date>2022-02-26T06:38:17.584330Z</date>
+  <millis>1645857497584</millis>
+  <nanos>330000</nanos>
   <sequence>1215</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2664,9 +2663,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO15', payload='Pr0m0', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606146Z</date>
-  <millis>1645712118606</millis>
-  <nanos>146000</nanos>
+  <date>2022-02-26T06:38:17.584469Z</date>
+  <millis>1645857497584</millis>
+  <nanos>469000</nanos>
   <sequence>1216</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2676,9 +2675,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO16', payload='register', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606251Z</date>
-  <millis>1645712118606</millis>
-  <nanos>251000</nanos>
+  <date>2022-02-26T06:38:17.584591Z</date>
+  <millis>1645857497584</millis>
+  <nanos>591000</nanos>
   <sequence>1217</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2688,9 +2687,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO17', payload='Juan dela Cruz', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606427Z</date>
-  <millis>1645712118606</millis>
-  <nanos>427000</nanos>
+  <date>2022-02-26T06:38:17.584707Z</date>
+  <millis>1645857497584</millis>
+  <nanos>707000</nanos>
   <sequence>1218</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2700,9 +2699,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO23', payload='PROMO', timestamp=2020-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606615Z</date>
-  <millis>1645712118606</millis>
-  <nanos>615000</nanos>
+  <date>2022-02-26T06:38:17.584880Z</date>
+  <millis>1645857497584</millis>
+  <nanos>880000</nanos>
   <sequence>1219</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2712,9 +2711,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO24', payload='REGISTER', timestamp=2022-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.606907Z</date>
-  <millis>1645712118606</millis>
-  <nanos>907000</nanos>
+  <date>2022-02-26T06:38:17.584979Z</date>
+  <millis>1645857497584</millis>
+  <nanos>979000</nanos>
   <sequence>1220</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2724,9 +2723,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO31', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607216Z</date>
-  <millis>1645712118607</millis>
-  <nanos>216000</nanos>
+  <date>2022-02-26T06:38:17.585056Z</date>
+  <millis>1645857497585</millis>
+  <nanos>56000</nanos>
   <sequence>1221</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2736,9 +2735,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO32', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607330Z</date>
-  <millis>1645712118607</millis>
-  <nanos>330000</nanos>
+  <date>2022-02-26T06:38:17.585131Z</date>
+  <millis>1645857497585</millis>
+  <nanos>131000</nanos>
   <sequence>1222</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2748,9 +2747,9 @@
   <message>VIEW: SMS{msisdn='+6395630267', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO34', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607405Z</date>
-  <millis>1645712118607</millis>
-  <nanos>405000</nanos>
+  <date>2022-02-26T06:38:17.585206Z</date>
+  <millis>1645857497585</millis>
+  <nanos>206000</nanos>
   <sequence>1223</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2760,9 +2759,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO39', payload='Aveno Miguel', timestamp=2021-05-20T12:15, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607491Z</date>
-  <millis>1645712118607</millis>
-  <nanos>491000</nanos>
+  <date>2022-02-26T06:38:17.585389Z</date>
+  <millis>1645857497585</millis>
+  <nanos>389000</nanos>
   <sequence>1224</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2772,9 +2771,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO40', payload='PR0M0', timestamp=2022-10-10T16:30, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607568Z</date>
-  <millis>1645712118607</millis>
-  <nanos>568000</nanos>
+  <date>2022-02-26T06:38:17.585569Z</date>
+  <millis>1645857497585</millis>
+  <nanos>569000</nanos>
   <sequence>1225</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2784,9 +2783,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO41', payload='register', timestamp=2022-10-10T16:40, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607648Z</date>
-  <millis>1645712118607</millis>
-  <nanos>648000</nanos>
+  <date>2022-02-26T06:38:17.585760Z</date>
+  <millis>1645857497585</millis>
+  <nanos>760000</nanos>
   <sequence>1226</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2796,9 +2795,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO42', payload='PR0M0', timestamp=2021-04-26T14:45, statusTag=FAILED_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.607869Z</date>
-  <millis>1645712118607</millis>
-  <nanos>869000</nanos>
+  <date>2022-02-26T06:38:17.585958Z</date>
+  <millis>1645857497585</millis>
+  <nanos>958000</nanos>
   <sequence>1227</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2808,9 +2807,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO1', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608024Z</date>
-  <millis>1645712118608</millis>
-  <nanos>24000</nanos>
+  <date>2022-02-26T06:38:17.586363Z</date>
+  <millis>1645857497586</millis>
+  <nanos>363000</nanos>
   <sequence>1228</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2820,9 +2819,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO2', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608160Z</date>
-  <millis>1645712118608</millis>
-  <nanos>160000</nanos>
+  <date>2022-02-26T06:38:17.586825Z</date>
+  <millis>1645857497586</millis>
+  <nanos>825000</nanos>
   <sequence>1229</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2832,9 +2831,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO3', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608275Z</date>
-  <millis>1645712118608</millis>
-  <nanos>275000</nanos>
+  <date>2022-02-26T06:38:17.587232Z</date>
+  <millis>1645857497587</millis>
+  <nanos>232000</nanos>
   <sequence>1230</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2844,9 +2843,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO4', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608403Z</date>
-  <millis>1645712118608</millis>
-  <nanos>403000</nanos>
+  <date>2022-02-26T06:38:17.587599Z</date>
+  <millis>1645857497587</millis>
+  <nanos>599000</nanos>
   <sequence>1231</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2856,9 +2855,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO18', payload='Juan, dela Cruz', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608529Z</date>
-  <millis>1645712118608</millis>
-  <nanos>529000</nanos>
+  <date>2022-02-26T06:38:17.587852Z</date>
+  <millis>1645857497587</millis>
+  <nanos>852000</nanos>
   <sequence>1232</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2868,9 +2867,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO19', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608654Z</date>
-  <millis>1645712118608</millis>
-  <nanos>654000</nanos>
+  <date>2022-02-26T06:38:17.588041Z</date>
+  <millis>1645857497588</millis>
+  <nanos>41000</nanos>
   <sequence>1233</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2880,9 +2879,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO20', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.608814Z</date>
-  <millis>1645712118608</millis>
-  <nanos>814000</nanos>
+  <date>2022-02-26T06:38:17.588195Z</date>
+  <millis>1645857497588</millis>
+  <nanos>195000</nanos>
   <sequence>1234</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2892,9 +2891,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Mang Thomas', sender='Pizza Place', shortCode='1234555', transactionID='PROMO21', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609025Z</date>
-  <millis>1645712118609</millis>
-  <nanos>25000</nanos>
+  <date>2022-02-26T06:38:17.588270Z</date>
+  <millis>1645857497588</millis>
+  <nanos>270000</nanos>
   <sequence>1235</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2904,9 +2903,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO22', payload='Thomas, Mang', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609166Z</date>
-  <millis>1645712118609</millis>
-  <nanos>166000</nanos>
+  <date>2022-02-26T06:38:17.588337Z</date>
+  <millis>1645857497588</millis>
+  <nanos>337000</nanos>
   <sequence>1236</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2916,9 +2915,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO26', payload='dela Cruz, Juan', timestamp=2021-04-03T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609310Z</date>
-  <millis>1645712118609</millis>
-  <nanos>310000</nanos>
+  <date>2022-02-26T06:38:17.588763Z</date>
+  <millis>1645857497588</millis>
+  <nanos>763000</nanos>
   <sequence>1237</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2928,9 +2927,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO27', payload='PROMO', timestamp=2021-03-02T13:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609394Z</date>
-  <millis>1645712118609</millis>
-  <nanos>394000</nanos>
+  <date>2022-02-26T06:38:17.589104Z</date>
+  <millis>1645857497589</millis>
+  <nanos>104000</nanos>
   <sequence>1238</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2940,9 +2939,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO28', payload='REGISTER', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609513Z</date>
-  <millis>1645712118609</millis>
-  <nanos>513000</nanos>
+  <date>2022-02-26T06:38:17.589386Z</date>
+  <millis>1645857497589</millis>
+  <nanos>386000</nanos>
   <sequence>1239</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2952,9 +2951,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Siao Tan', sender='Pizza Place', shortCode='1234555', transactionID='PROMO29', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609627Z</date>
-  <millis>1645712118609</millis>
-  <nanos>627000</nanos>
+  <date>2022-02-26T06:38:17.589539Z</date>
+  <millis>1645857497589</millis>
+  <nanos>539000</nanos>
   <sequence>1240</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2964,9 +2963,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO30', payload='Tan, Siao', timestamp=2021-03-02T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609741Z</date>
-  <millis>1645712118609</millis>
-  <nanos>741000</nanos>
+  <date>2022-02-26T06:38:17.589651Z</date>
+  <millis>1645857497589</millis>
+  <nanos>651000</nanos>
   <sequence>1241</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2976,9 +2975,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO35', payload='PROMO', timestamp=2021-05-20T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.609892Z</date>
-  <millis>1645712118609</millis>
-  <nanos>892000</nanos>
+  <date>2022-02-26T06:38:17.589884Z</date>
+  <millis>1645857497589</millis>
+  <nanos>884000</nanos>
   <sequence>1242</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -2988,9 +2987,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO36', payload='REGISTER', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.610459Z</date>
-  <millis>1645712118610</millis>
-  <nanos>459000</nanos>
+  <date>2022-02-26T06:38:17.590072Z</date>
+  <millis>1645857497590</millis>
+  <nanos>72000</nanos>
   <sequence>1243</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3000,9 +2999,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Miguel Aveno', sender='Pizza Place', shortCode='1234555', transactionID='PROMO37', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.610726Z</date>
-  <millis>1645712118610</millis>
-  <nanos>726000</nanos>
+  <date>2022-02-26T06:38:17.590268Z</date>
+  <millis>1645857497590</millis>
+  <nanos>268000</nanos>
   <sequence>1244</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3012,9 +3011,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO38', payload='Aveno, Miguel', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.610911Z</date>
-  <millis>1645712118610</millis>
-  <nanos>911000</nanos>
+  <date>2022-02-26T06:38:17.590522Z</date>
+  <millis>1645857497590</millis>
+  <nanos>522000</nanos>
   <sequence>1245</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3024,9 +3023,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO43', payload='REGISTER', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611071Z</date>
-  <millis>1645712118611</millis>
-  <nanos>71000</nanos>
+  <date>2022-02-26T06:38:17.590835Z</date>
+  <millis>1645857497590</millis>
+  <nanos>835000</nanos>
   <sequence>1246</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3036,9 +3035,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Boris Ivanovich', sender='Pizza Place', shortCode='1234555', transactionID='PROMO44', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611220Z</date>
-  <millis>1645712118611</millis>
-  <nanos>220000</nanos>
+  <date>2022-02-26T06:38:17.591113Z</date>
+  <millis>1645857497591</millis>
+  <nanos>113000</nanos>
   <sequence>1247</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3048,9 +3047,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO45', payload='Ivanovich, Boris', timestamp=2021-04-26T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611354Z</date>
-  <millis>1645712118611</millis>
-  <nanos>354000</nanos>
+  <date>2022-02-26T06:38:17.591301Z</date>
+  <millis>1645857497591</millis>
+  <nanos>301000</nanos>
   <sequence>1248</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3060,9 +3059,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Juan dela Cruz', sender='Pizza Place', shortCode='1234555', transactionID='PROMO3', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611522Z</date>
-  <millis>1645712118611</millis>
-  <nanos>522000</nanos>
+  <date>2022-02-26T06:38:17.591420Z</date>
+  <millis>1645857497591</millis>
+  <nanos>420000</nanos>
   <sequence>1249</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3072,9 +3071,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Mang Thomas', sender='Pizza Place', shortCode='1234555', transactionID='PROMO21', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611678Z</date>
-  <millis>1645712118611</millis>
-  <nanos>678000</nanos>
+  <date>2022-02-26T06:38:17.591579Z</date>
+  <millis>1645857497591</millis>
+  <nanos>579000</nanos>
   <sequence>1250</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3084,9 +3083,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Siao Tan', sender='Pizza Place', shortCode='1234555', transactionID='PROMO29', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611795Z</date>
-  <millis>1645712118611</millis>
-  <nanos>795000</nanos>
+  <date>2022-02-26T06:38:17.591698Z</date>
+  <millis>1645857497591</millis>
+  <nanos>698000</nanos>
   <sequence>1251</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3096,9 +3095,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Miguel Aveno', sender='Pizza Place', shortCode='1234555', transactionID='PROMO37', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.611932Z</date>
-  <millis>1645712118611</millis>
-  <nanos>932000</nanos>
+  <date>2022-02-26T06:38:17.591828Z</date>
+  <millis>1645857497591</millis>
+  <nanos>828000</nanos>
   <sequence>1252</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3108,9 +3107,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Boris Ivanovich', sender='Pizza Place', shortCode='1234555', transactionID='PROMO44', payload='To complete the promo registration, please send Lastname, Firstname to 1234555', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612040Z</date>
-  <millis>1645712118612</millis>
-  <nanos>40000</nanos>
+  <date>2022-02-26T06:38:17.591935Z</date>
+  <millis>1645857497591</millis>
+  <nanos>935000</nanos>
   <sequence>1253</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3120,9 +3119,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO1', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612137Z</date>
-  <millis>1645712118612</millis>
-  <nanos>137000</nanos>
+  <date>2022-02-26T06:38:17.592057Z</date>
+  <millis>1645857497592</millis>
+  <nanos>57000</nanos>
   <sequence>1254</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3132,9 +3131,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO2', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612258Z</date>
-  <millis>1645712118612</millis>
-  <nanos>258000</nanos>
+  <date>2022-02-26T06:38:17.592171Z</date>
+  <millis>1645857497592</millis>
+  <nanos>171000</nanos>
   <sequence>1255</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3144,9 +3143,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO4', payload='dela Cruz, Juan', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612362Z</date>
-  <millis>1645712118612</millis>
-  <nanos>362000</nanos>
+  <date>2022-02-26T06:38:17.592297Z</date>
+  <millis>1645857497592</millis>
+  <nanos>297000</nanos>
   <sequence>1256</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3156,9 +3155,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO18', payload='Juan, dela Cruz', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612464Z</date>
-  <millis>1645712118612</millis>
-  <nanos>464000</nanos>
+  <date>2022-02-26T06:38:17.592420Z</date>
+  <millis>1645857497592</millis>
+  <nanos>420000</nanos>
   <sequence>1257</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3168,9 +3167,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO19', payload='PROMO', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612569Z</date>
-  <millis>1645712118612</millis>
-  <nanos>569000</nanos>
+  <date>2022-02-26T06:38:17.592590Z</date>
+  <millis>1645857497592</millis>
+  <nanos>590000</nanos>
   <sequence>1258</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3180,9 +3179,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO20', payload='REGISTER', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612695Z</date>
-  <millis>1645712118612</millis>
-  <nanos>695000</nanos>
+  <date>2022-02-26T06:38:17.592743Z</date>
+  <millis>1645857497592</millis>
+  <nanos>743000</nanos>
   <sequence>1259</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3192,9 +3191,9 @@
   <message>VIEW: SMS{msisdn='+639771425863', recipient='Pizza Place', sender='Mang Thomas', shortCode='1234555', transactionID='PROMO22', payload='Thomas, Mang', timestamp=2021-03-02T11:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.612862Z</date>
-  <millis>1645712118612</millis>
-  <nanos>862000</nanos>
+  <date>2022-02-26T06:38:17.592883Z</date>
+  <millis>1645857497592</millis>
+  <nanos>883000</nanos>
   <sequence>1260</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3204,9 +3203,9 @@
   <message>VIEW: SMS{msisdn='+639563026795', recipient='Pizza Place', sender='Juan dela Cruz', shortCode='1234555', transactionID='PROMO26', payload='dela Cruz, Juan', timestamp=2021-04-03T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.613035Z</date>
-  <millis>1645712118613</millis>
-  <nanos>35000</nanos>
+  <date>2022-02-26T06:38:17.593030Z</date>
+  <millis>1645857497593</millis>
+  <nanos>30000</nanos>
   <sequence>1261</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3216,9 +3215,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO27', payload='PROMO', timestamp=2021-03-02T13:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.613272Z</date>
-  <millis>1645712118613</millis>
-  <nanos>272000</nanos>
+  <date>2022-02-26T06:38:17.593178Z</date>
+  <millis>1645857497593</millis>
+  <nanos>178000</nanos>
   <sequence>1262</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3228,9 +3227,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO28', payload='REGISTER', timestamp=2021-03-02T14:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.613446Z</date>
-  <millis>1645712118613</millis>
-  <nanos>446000</nanos>
+  <date>2022-02-26T06:38:17.593309Z</date>
+  <millis>1645857497593</millis>
+  <nanos>309000</nanos>
   <sequence>1263</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3240,9 +3239,9 @@
   <message>VIEW: SMS{msisdn='+639171582496', recipient='Pizza Place', sender='Siao Tan', shortCode='1234555', transactionID='PROMO30', payload='Tan, Siao', timestamp=2021-03-02T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.613620Z</date>
-  <millis>1645712118613</millis>
-  <nanos>620000</nanos>
+  <date>2022-02-26T06:38:17.593436Z</date>
+  <millis>1645857497593</millis>
+  <nanos>436000</nanos>
   <sequence>1264</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3252,9 +3251,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO35', payload='PROMO', timestamp=2021-05-20T12:01, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.613793Z</date>
-  <millis>1645712118613</millis>
-  <nanos>793000</nanos>
+  <date>2022-02-26T06:38:17.593576Z</date>
+  <millis>1645857497593</millis>
+  <nanos>576000</nanos>
   <sequence>1265</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3264,9 +3263,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO36', payload='REGISTER', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.614074Z</date>
-  <millis>1645712118614</millis>
-  <nanos>74000</nanos>
+  <date>2022-02-26T06:38:17.593704Z</date>
+  <millis>1645857497593</millis>
+  <nanos>704000</nanos>
   <sequence>1266</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3276,9 +3275,9 @@
   <message>VIEW: SMS{msisdn='+639158761953', recipient='Pizza Place', sender='Miguel Aveno', shortCode='1234555', transactionID='PROMO38', payload='Aveno, Miguel', timestamp=2021-05-20T12:15, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.614537Z</date>
-  <millis>1645712118614</millis>
-  <nanos>537000</nanos>
+  <date>2022-02-26T06:38:17.593828Z</date>
+  <millis>1645857497593</millis>
+  <nanos>828000</nanos>
   <sequence>1267</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3288,9 +3287,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO43', payload='REGISTER', timestamp=2021-04-26T14:50, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.614836Z</date>
-  <millis>1645712118614</millis>
-  <nanos>836000</nanos>
+  <date>2022-02-26T06:38:17.593952Z</date>
+  <millis>1645857497593</millis>
+  <nanos>952000</nanos>
   <sequence>1268</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3300,9 +3299,9 @@
   <message>VIEW: SMS{msisdn='+639775183692', recipient='Pizza Place', sender='Boris Ivanovich', shortCode='1234555', transactionID='PROMO45', payload='Ivanovich, Boris', timestamp=2021-04-26T15:00, statusTag=SUCCESS_SMS, definedPromoTag=PROMO}</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.615140Z</date>
-  <millis>1645712118615</millis>
-  <nanos>140000</nanos>
+  <date>2022-02-26T06:38:17.594061Z</date>
+  <millis>1645857497594</millis>
+  <nanos>61000</nanos>
   <sequence>1269</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3312,9 +3311,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.615366Z</date>
-  <millis>1645712118615</millis>
-  <nanos>366000</nanos>
+  <date>2022-02-26T06:38:17.594212Z</date>
+  <millis>1645857497594</millis>
+  <nanos>212000</nanos>
   <sequence>1270</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3326,9 +3325,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.615527Z</date>
-  <millis>1645712118615</millis>
-  <nanos>527000</nanos>
+  <date>2022-02-26T06:38:17.594400Z</date>
+  <millis>1645857497594</millis>
+  <nanos>400000</nanos>
   <sequence>1271</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3340,9 +3339,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.615828Z</date>
-  <millis>1645712118615</millis>
-  <nanos>828000</nanos>
+  <date>2022-02-26T06:38:17.594603Z</date>
+  <millis>1645857497594</millis>
+  <nanos>603000</nanos>
   <sequence>1272</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3352,9 +3351,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.616181Z</date>
-  <millis>1645712118616</millis>
-  <nanos>181000</nanos>
+  <date>2022-02-26T06:38:17.594894Z</date>
+  <millis>1645857497594</millis>
+  <nanos>894000</nanos>
   <sequence>1273</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3364,9 +3363,9 @@
   <message>VIEW: dela Cruz, Juan</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.616537Z</date>
-  <millis>1645712118616</millis>
-  <nanos>537000</nanos>
+  <date>2022-02-26T06:38:17.595080Z</date>
+  <millis>1645857497595</millis>
+  <nanos>80000</nanos>
   <sequence>1274</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3376,9 +3375,9 @@
   <message>VIEW: Juan, dela Cruz</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.617683Z</date>
-  <millis>1645712118617</millis>
-  <nanos>683000</nanos>
+  <date>2022-02-26T06:38:17.595462Z</date>
+  <millis>1645857497595</millis>
+  <nanos>462000</nanos>
   <sequence>1275</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3388,9 +3387,9 @@
   <message>VIEW: Thomas, Mang</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.618140Z</date>
-  <millis>1645712118618</millis>
-  <nanos>140000</nanos>
+  <date>2022-02-26T06:38:17.595670Z</date>
+  <millis>1645857497595</millis>
+  <nanos>670000</nanos>
   <sequence>1276</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3400,9 +3399,9 @@
   <message>VIEW: dela Cruz, Juan</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.618390Z</date>
-  <millis>1645712118618</millis>
-  <nanos>390000</nanos>
+  <date>2022-02-26T06:38:17.595797Z</date>
+  <millis>1645857497595</millis>
+  <nanos>797000</nanos>
   <sequence>1277</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3412,9 +3411,9 @@
   <message>VIEW: Tan, Siao</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.618567Z</date>
-  <millis>1645712118618</millis>
-  <nanos>567000</nanos>
+  <date>2022-02-26T06:38:17.595904Z</date>
+  <millis>1645857497595</millis>
+  <nanos>904000</nanos>
   <sequence>1278</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3424,9 +3423,9 @@
   <message>VIEW: Aveno, Miguel</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.618675Z</date>
-  <millis>1645712118618</millis>
-  <nanos>675000</nanos>
+  <date>2022-02-26T06:38:17.596041Z</date>
+  <millis>1645857497596</millis>
+  <nanos>41000</nanos>
   <sequence>1279</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3436,9 +3435,9 @@
   <message>VIEW: Ivanovich, Boris</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.618902Z</date>
-  <millis>1645712118618</millis>
-  <nanos>902000</nanos>
+  <date>2022-02-26T06:38:17.596210Z</date>
+  <millis>1645857497596</millis>
+  <nanos>210000</nanos>
   <sequence>1280</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3448,9 +3447,9 @@
   <message>------------</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.619466Z</date>
-  <millis>1645712118619</millis>
-  <nanos>466000</nanos>
+  <date>2022-02-26T06:38:17.596319Z</date>
+  <millis>1645857497596</millis>
+  <nanos>319000</nanos>
   <sequence>1281</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3462,9 +3461,9 @@
 </message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.624391Z</date>
-  <millis>1645712118624</millis>
-  <nanos>391000</nanos>
+  <date>2022-02-26T06:38:17.603130Z</date>
+  <millis>1645857497603</millis>
+  <nanos>130000</nanos>
   <sequence>1282</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>
@@ -3474,9 +3473,9 @@
   <message>VIEW: Total Count of SMS Received: 30</message>
 </record>
 <record>
-  <date>2022-02-24T14:15:18.624901Z</date>
-  <millis>1645712118624</millis>
-  <nanos>901000</nanos>
+  <date>2022-02-26T06:38:17.604448Z</date>
+  <millis>1645857497604</millis>
+  <nanos>448000</nanos>
   <sequence>1283</sequence>
   <logger>com.company.controllers.SMSController</logger>
   <level>INFO</level>

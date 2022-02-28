@@ -8,10 +8,31 @@ import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-        createPromos();
-        initScenario();
-        populateData();
-        generateReport();
+//        static SMS newSMS;   <---- uncomment this one for step 10
+
+//        createPromos();
+//        initScenario();
+//        populateData();
+//        generateReport();
+
+        // 8. Create an object of SMSBuilder class that passes msisdn, shortCode, and payload as its parameters.
+        // example:
+        // SMS.SMSBuilder builder = new SMS.SMSBuilder("msisdn", "shortCode", "payload");
+
+        // 9. Add attributes to the object.
+        // example:
+        // builder.addTransactionID("transactionID");
+
+        // 10. Call the build() method to build the object. Replace the newForm to newSMS in the example below.
+        // example:
+        // newForm = builder.build();
+
+        //NOTE: - You can build as many objects as you want by just following step 8 to 10.
+        //      - Do the same thing as what you did in the SMS class but for the Promo class (follow steps 1 - 7)
+        //      - You can use Coach Mac's builder code as a guide
+        //      - If you have some difficulty, PM me in discord
+
+
     }
 
     private static void generateReport() {
