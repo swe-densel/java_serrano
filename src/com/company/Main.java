@@ -8,13 +8,18 @@ import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-//        static SMS newSMS;   <---- uncomment this one for step 10
+    SMS.SMSBuilder newSMS;   //<---- uncomment this one for step 10
 
 //        createPromos();
 //        initScenario();
 //        populateData();
 //        generateReport();
 
+        SMS.SMSBuilder SMSBuild = new SMS.SMSBuilder("msisdn","shortCode", "payload");
+        SMSBuild.addtransactionID("transactionID");
+        SMSBuild.addSender("sender");
+
+        newSMS = SMSBuild.build();
         // 8. Create an object of SMSBuilder class that passes msisdn, shortCode, and payload as its parameters.
         // example:
         // SMS.SMSBuilder builder = new SMS.SMSBuilder("msisdn", "shortCode", "payload");

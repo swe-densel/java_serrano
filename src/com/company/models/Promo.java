@@ -23,6 +23,8 @@ public class Promo {
         this.endDate = endDate;
     }
 
+
+
     public String getPromoCode() {
         return promoCode;
     }

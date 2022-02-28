@@ -228,6 +228,49 @@ public class SMS {
                 '}';
     }
 
+    private SMS(SMS SMSBuilder){
+        this.msisdn = SMSBuilder.msisdn;
+        this.recipient = SMSBuilder.recipient;
+        this.sender = SMSBuilder.sender;
+        this.shortCode = SMSBuilder.shortCode;
+        this.transactionID = SMSBuilder.transactionID;
+        this.payload = SMSBuilder.payload;
+        this.timestamp = SMSBuilder.timestamp;
+    }
+
+    public static class SMSBuilder{
+        private String msisdn;
+        private String recipient;
+        private String sender;
+        private String shortCode;
+        private String transactionID;
+        private String payload;
+        private LocalDateTime timestamp;
+
+        public SMSBuilder(String msisdn, String shortCode, String payload) {
+            this.msisdn = msisdn;
+            this.shortCode = shortCode;
+            this.payload = payload;
+        }
+
+        public SMSBuilder(SMSBuilder smsBuilder) {
+        }
+
+        public SMSBuilder addSender(String sender){
+            this.sender = sender;
+            return this;
+        }
+
+        public SMSBuilder addtransactionID(String transactionID){
+            this.transactionID = transactionID;
+            return this;
+        }
+
+        public SMSBuilder build(){
+            SMSBuilder smsbuilder = new SMSBuilder(this);
+            return smsbuilder;
+        }
+    }
     //  -------- BUILDER CLASS -----------
 
     // 1. Create a public static class named "SMSBuilder" here
