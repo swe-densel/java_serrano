@@ -16,6 +16,7 @@ public class Main {
 //        generateReport();
 
         SMS.SMSBuilder SMSBuild = new SMS.SMSBuilder("msisdn","shortCode", "payload");
+        SMSBuild.addRecipient("recipient");
         SMSBuild.addtransactionID("transactionID");
         SMSBuild.addSender("sender");
 
