@@ -256,6 +256,11 @@ public class SMS {
         public SMSBuilder(SMSBuilder smsBuilder) {
         }
 
+        public SMSBuilder addRecipient(String recipient){
+            this.recipient = recipient;
+            return this;
+        }
+
         public SMSBuilder addSender(String sender){
             this.sender = sender;
             return this;
