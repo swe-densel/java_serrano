@@ -11,6 +11,6 @@ The company creates an SMS and sends it to notify its subscribers about the Piso
 CLASSES TO CHECK:
 
 - Main class 
-- The builder class is located at the bottom of the SMS Class. Credit to 
+- The builder class is located at the bottom of the SMS Class. 
 - Subscriber (as the observer), HuaweiSubscriber, SamsungSubscriber, 
 - Company (as the Observable)
