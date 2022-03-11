@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-    SMS.SMSBuilder newSMS;   //<---- uncomment this one for step 10
+    SMS newSMS;   //<---- uncomment this one for step 10
 
 //        createPromos();
 //        initScenario();

@@ -61,6 +61,9 @@ public class SMS {
         this.definedPromoTag = definedPromoTag;
     }
 
+    public SMS(SMSBuilder smsBuilder) {
+    }
+
     public String getMsisdn() {
         return msisdn;
     }
@@ -271,8 +274,8 @@ public class SMS {
             return this;
         }
 
-        public SMSBuilder build(){
-            SMSBuilder sms = new SMSBuilder(this);
+        public SMS build(){
+            SMS sms = new SMS(this);
             return sms;
         }
     }
