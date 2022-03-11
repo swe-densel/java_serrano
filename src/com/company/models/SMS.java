@@ -272,8 +272,8 @@ public class SMS {
         }
 
         public SMSBuilder build(){
-            SMSBuilder smsbuilder = new SMSBuilder(this);
-            return smsbuilder;
+            SMSBuilder sms = new SMSBuilder(this);
+            return sms;
         }
     }
     //  -------- BUILDER CLASS -----------
