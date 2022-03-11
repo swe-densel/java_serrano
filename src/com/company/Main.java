@@ -1,52 +1,47 @@
 package com.company;
 
 import com.company.controllers.SMSController;
-import com.company.models.Promo;
-import com.company.models.SMS;
+import com.company.enums.DefinedPromo;
+import com.company.models.*;
 
 import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-    SMS newSMS;   //<---- uncomment this one for step 10
+        SMS sms = buildSMS();
+        notifySubscribers(sms);
+    }
 
-//        createPromos();
-//        initScenario();
-//        populateData();
-//        generateReport();
+    //This method builds the SMS using Builder class and returns the SMSBuilder
+    private static SMS buildSMS() {
 
-        SMS.SMSBuilder SMSBuild = new SMS.SMSBuilder("msisdn","shortCode", "payload");
-        SMSBuild.addRecipient("recipient");
-        SMSBuild.addtransactionID("transactionID");
-        SMSBuild.addSender("sender");
+        //DefinedPromo enum is used here to supply the parameters required for the SMS
+        SMS.SMSBuilder smsBuilder = new SMS.SMSBuilder(
+                DefinedPromo.PROMO.getShortCode(),
+                DefinedPromo.PROMO.getDetails()
+        );
+        smsBuilder.addSender(DefinedPromo.PROMO.getCompany());
+        smsBuilder.addTimestamp(LocalDateTime.now());
+        return smsBuilder.build();
+    }
 
-        newSMS = SMSBuild.build();
-        // 8. Create an object of SMSBuilder class that passes msisdn, shortCode, and payload as its parameters.
-        // example:
-        // SMS.SMSBuilder builder = new SMS.SMSBuilder("msisdn", "shortCode", "payload");
+    //This method sends an SMS to notify all subscribers using Observer design pattern
+    private static void notifySubscribers(SMS sms){
+        Company company = new Company();
 
-        // 9. Add attributes to the object.
-        // example:
-        // builder.addTransactionID("transactionID");
+        new SamsungSubscriber(company, "+639771579234");
+        new HuaweiSubscriber(company, "+639774316258");
 
-        // 10. Call the build() method to build the object. Replace the newForm to newSMS in the example below.
-        // example:
-        // newForm = builder.build();
-
-        //NOTE: - You can build as many objects as you want by just following step 8 to 10.
-        //      - Do the same thing as what you did in the SMS class but for the Promo class (follow steps 1 - 7)
-        //      - You can use Coach Mac's builder code as a guide
-        //      - If you have some difficulty, PM me in discord
-
-
+        company.sendSMS(sms);
     }
 
     private static void generateReport() {
+        //----Report Generation 4th part-----
         SMSController.getInstance().generateReport();
     }
 
     private static void populateData() {
-        //DATA POPULATION -----------------------
+        //DATA POPULATION 3rd Part-----------------------
 
         SMSController.getInstance()
                 .sendSMS(new SMS(
@@ -962,7 +957,7 @@ public class Main {
     }
 
     private static void initScenario() {
-        //SCENARIO  (PISO PIZZA) -----------------------
+        //SCENARIO  2nd Part (PISO PIZZA) -----------------------
 
         SMSController.getInstance()
                 .sendSMS(new SMS(
@@ -1120,7 +1115,7 @@ public class Main {
     }
 
     private static void createPromos() {
-        //CREATE PROMOS -----------------------
+        //CREATE PROMOS 1st Part-----------------------
         Promo promo = new Promo(
                 "PROMO",
                 "Piso Pizza Promo - Buy a Pizza for only 1 PHP.",
